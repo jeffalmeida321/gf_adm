@@ -19,17 +19,30 @@ Conforme será demonstrado, o requerido vem adotando condutas que violam express
 
 ### **a. Violação do contrato social e decisões unilaterais – Alienação de imóvel sem anuência do sócio minoritário**
 
-O administrador **Victor Bernardes procedeu à venda de imóveis pertencentes à sociedade sem a anuência do sócio minoritário Jefferson Almeida**, em manifesta afronta ao disposto na **7ª Alteração Contratual**, que exige aprovação unânime para qualquer alienação de bens imóveis (`arq0001.pdf`).
+O administrador **Victor Bernardes procedeu à venda de imóveis pertencentes à sociedade sem a anuência do sócio minoritário Jefferson Almeida**, em manifesta afronta ao disposto na **7ª Alteração Contratual** (**Anexo 01**), a qual exige aprovação unânime para qualquer alienação de bens imóveis.  
 
-Os referidos lotes de Japaratinga haviam sido adquiridos anteriormente, ainda sob a administração do autor, mediante contratos regularmente celebrados e integralmente quitados com recursos das sociedades (`arq0005.pdf`, `arq0008.pdf` e extratos em `arq0011-arq0015.pdf`). Embora a transferência das matrículas não tivesse sido imediatamente formalizada em cartório, os bens **já integravam o patrimônio societário**, cabendo exclusivamente à administração cumprir o trâmite registral subsequente.
+Os referidos lotes de Japaratinga haviam sido adquiridos anteriormente, ainda sob a administração do autor, mediante contratos regularmente celebrados (**Anexo 02**) e integralmente quitados com recursos das sociedades, conforme extratos bancários juntados (**Anexo 03**). Embora a transferência das matrículas não tivesse sido imediatamente formalizada em cartório, os bens **já integravam o patrimônio societário**, cabendo exclusivamente à administração cumprir o trâmite registral subsequente.  
 
-Mesmo assim, Victor Bernardes, já na qualidade de administrador, **alienou os imóveis de forma unilateral, sem convocação de assembleia e sem obter a anuência do sócio minoritário**, praticando ato de gestão abusiva e em desacordo com o contrato social.
+Não obstante, Victor Bernardes, já na qualidade de administrador, **alienou os imóveis de forma unilateral, sem convocação de assembleia e sem obter a anuência do sócio minoritário**, praticando ato de gestão abusiva e em desacordo com o contrato social. Tal transação encontra-se materializada no contrato de venda ora acostado (**Anexo 04**).  
 
-Tal conduta representa **grave violação aos deveres fiduciários do administrador**, expondo a sociedade a risco de dilapidação patrimonial e comprometendo a confiança necessária à governança societária.
+Essa conduta representa **grave violação aos deveres fiduciários do administrador**, expondo a sociedade a risco de dilapidação patrimonial e comprometendo a confiança necessária à governança societária.  
+
+---
+
+📄 **Documentos comprobatórios**  
+- **Anexo 01** – 7ª Alteração Contratual das sociedades (cláusula de anuência unânime)  
+- **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
+- **Anexo 03** – Extratos bancários comprovando a quitação dos contratos pela empresa  
+- **Anexo 04** – Contrato de venda unilateral realizado por Victor Bernardes  
+
+📌 **Provas complementares a produzir**  
+- Testemunhal (sócios e ex-administradores);  
+- Pericial contábil para apurar movimentações financeiras relativas à alienação;  
+- Inspeção judicial, se necessário, para verificar registros imobiliários.  
 
 ### **b. Gestão temerária e negligência administrativa**
 
-A gestão exercida por Victor Bernardes tem se caracterizado pela prática de atos que revelam **grave negligência administrativa**, resultando em prejuízos patrimoniais concretos e no comprometimento da própria continuidade das sociedades. Dois episódios, em especial, evidenciam esse padrão de conduta: (i) a perda de área doada pelo Município de Terenos, e (ii) a paralisação total das atividades empresariais.
+A gestão exercida por Victor Bernardes tem se caracterizado pela prática de atos que revelam **grave negligência administrativa**, resultando em prejuízos patrimoniais concretos e no comprometimento da própria continuidade das sociedades. Dois episódios, em especial, evidenciam esse padrão de conduta: (i) a perda de área doada pelo Município de Terenos, e (ii) a paralisação total das atividades empresariais.  
 
 ---
 
@@ -37,11 +50,21 @@ A gestão exercida por Victor Bernardes tem se caracterizado pela prática de at
 
 O administrador **Victor Bernardes deixou de cumprir as condições legais vinculadas à doação de área concedida pelo Município de Terenos à Fetra Ltda.**, resultando na **revogação do benefício** e consequente perda do imóvel, em prejuízo direto ao patrimônio da sociedade.  
 
-Em **28/08/2023**, por meio da **Lei Municipal nº 1392/2023** (`arq0016.pdf`), a empresa foi beneficiada com área destinada à implantação de unidade fabril, mediante obrigações específicas a serem observadas pela administração. Durante a gestão do sócio Jefferson Almeida, foram realizados **investimentos substanciais**, com a celebração e pagamento integral de contratos de fornecimento de equipamentos industriais, no valor de aproximadamente **R$ 12,3 milhões** (`arq0018.pdf`, `arq0019.pdf`, `arq0020.pdf`).  
+Em **28/08/2023**, por meio da **Lei Municipal nº 1392/2023** (**Anexo 05**), a empresa foi beneficiada com área destinada à implantação de unidade fabril, mediante obrigações específicas a serem observadas pela administração. Durante a gestão do sócio Jefferson Almeida, foram realizados **investimentos substanciais**, com a celebração e pagamento integral de contratos de fornecimento de equipamentos industriais no valor aproximado de **R$ 12,3 milhões** (**Anexo 06**).  
 
-Contudo, após assumir a administração, Victor Bernardes **abandonou as providências necessárias ao cumprimento das condições da doação**, ocasionando a **revogação formalizada em 01/04/2025** no **Termo de Revogação expedido pelo Município** (`arq0017.pdf`).  
+Contudo, após assumir a administração, Victor Bernardes **abandonou as providências necessárias ao cumprimento das condições da doação**, ocasionando a **revogação formalizada em 01/04/2025** no **Termo de Revogação expedido pelo Município** (**Anexo 07**).  
 
 Tal conduta representou não apenas a **perda da área destinada à expansão da atividade industrial**, mas também a **inutilização de todos os equipamentos adquiridos para implantação da fábrica**, configurando verdadeiro **ato de gestão temerária**, contrário ao interesse social e responsável por prejuízo patrimonial de grande magnitude.  
+
+📄 **Documentos comprobatórios**  
+- **Anexo 05** – Lei Municipal nº 1392/2023, que concedeu a área à Fetra Ltda.  
+- **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
+- **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025  
+
+📌 **Provas complementares a produzir**  
+- Testemunhal (ex-funcionários, autoridades municipais envolvidas no processo de doação);  
+- Pericial contábil para avaliar o valor dos investimentos perdidos;  
+- Inspeção judicial no local da área revogada, se necessário.  
 
 ---
 
@@ -55,35 +78,41 @@ Tal cenário compromete não apenas a **sustentabilidade financeira imediata** d
 
 A conduta caracteriza inequívoco **ato de gestão temerária**, pois representa o abandono deliberado da atividade-fim da sociedade, violando os deveres de diligência e de preservação do patrimônio social impostos pelo art. 1.011 do Código Civil.  
 
-##### 📄 Provas sugeridas:
-- Registros fotográficos da fábrica e do escritório fechados;  
-- Declarações de ex-funcionários e fornecedores sobre a ausência de operações;  
-- Documentos contábeis e fiscais demonstrando ausência de faturamento (DREs, balanços, notas fiscais, declarações fiscais);  
-- Certidões trabalhistas indicando inexistência ou desligamento de empregados;  
-- Comunicações comerciais que comprovem cancelamento de contratos e paralisação das operações;  
-- Relatórios bancários indicando movimentação financeira mínima ou inexistente.  
+📄 **Documentos comprobatórios**  
+- **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
+- **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
+- **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
+- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
 
----
+📌 **Provas complementares a produzir**  
+- Testemunhal (ex-funcionários, fornecedores e clientes afetados);  
+- Pericial contábil e financeira para mensurar prejuízos decorrentes da paralisação;  
+- Inspeção judicial nas instalações da empresa, se necessário.  
 
 ### **c. Conflito de interesses, desvio de bens e confusão patrimonial**
 
-A administração de Victor Bernardes também tem se caracterizado por atos dolosos, voltados à utilização do patrimônio social em benefício próprio e em conflito direto com os interesses das sociedades. Dois episódios são particularmente ilustrativos: (i) a ocultação de retroescavadeiras objeto de parceria empresarial, com consequente arresto judicial das contas dos sócios, e (ii) a tentativa de utilização de área adquirida pela Fetra em proveito exclusivo de SPE particular do administrador.
+A administração de Victor Bernardes também tem se caracterizado por atos dolosos, voltados à utilização do patrimônio social em benefício próprio e em conflito direto com os interesses das sociedades. Dois episódios são particularmente ilustrativos: (i) a ocultação de retroescavadeiras objeto de parceria empresarial, com consequente arresto judicial das contas dos sócios, e (ii) a tentativa de utilização de área adquirida pela Fetra em proveito exclusivo de SPE particular do administrador.  
 
 ---
 
 #### **c.1. Ocultação de retroescavadeiras e arresto judicial de contas**
 
-A sociedade Fetra Ltda. firmou contrato de parceria com a empresa **Gonpec**, envolvendo a utilização de duas retroescavadeiras para execução de serviços. No entanto, sob a gestão de Victor Bernardes, houve **descumprimento das obrigações contratuais** e, mais grave, a **ocultação deliberada das máquinas**, impossibilitando sua utilização pela parceira comercial.  
+A sociedade **Fetra Ltda.** firmou contrato de parceria com a empresa **Gonpec**, envolvendo a utilização de duas retroescavadeiras para execução de serviços. No entanto, sob a gestão de Victor Bernardes, houve **descumprimento das obrigações contratuais** e, mais grave, a **ocultação deliberada das máquinas**, impossibilitando sua utilização pela parceira comercial.  
 
 Diante da conduta ilícita, a Gonpec ingressou com **ação judicial** contra a Fetra Ltda., resultando em **decisão que determinou o arresto das contas bancárias dos sócios**, medida que trouxe sérios prejuízos financeiros e afetou a imagem da empresa perante o mercado.  
 
 Tal episódio configura não apenas **gestão temerária**, mas também ato de **confusão patrimonial** e violação da boa-fé objetiva, pois a ocultação de bens da sociedade em benefício de interesses obscuros do administrador expôs diretamente os sócios e a empresa a riscos jurídicos e financeiros relevantes.  
 
-##### 📄 Documentos referenciados:
-- Contrato firmado com a Gonpec (`/docs/...`)  
-- Cópia da ação judicial movida pela Gonpec (`/docs/...`)  
-- Registros que comprovam o descumprimento da parceria e a ocultação das máquinas (`/docs/...`)  
-- Decisão judicial que determinou o arresto das contas (`/docs/...`)  
+📄 **Documentos comprobatórios**  
+- **Anexo 12** – Contrato de parceria firmado com a empresa Gonpec  
+- **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
+- **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
+- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
+
+📌 **Provas complementares a produzir**  
+- Testemunhal (representantes da Gonpec e funcionários envolvidos na operação das máquinas);  
+- Pericial contábil para apurar os efeitos financeiros do arresto;  
+- Inspeção judicial, se necessário, para verificar a localização e o estado dos equipamentos.  
 
 ---
 
@@ -95,11 +124,18 @@ As tratativas foram conduzidas inclusive com o envolvimento do **gerente comerci
 
 Tal conduta representa ato doloso de **enriquecimento ilícito às custas da sociedade**, comprometendo a integridade da gestão e violando frontalmente os deveres de lealdade e de preservação do patrimônio social previstos no art. 1.011 do Código Civil.  
 
-##### 📄 Documentos referenciados:
-- E-mails entre o gerente comercial da Fetra e potenciais compradores (`/docs/...`)  
-- Comprovantes de aquisição da área pela Fetra (`/docs/...`)  
-- Documentos societários da SPE pertencente a Victor Bernardes (`/docs/...`)  
-- Ausência de qualquer aprovação societária que autorizasse a operação (`/docs/...`)  
+📄 **Documentos comprobatórios**  
+- **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
+- **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
+- **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
+- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta  
+
+📌 **Provas complementares a produzir**  
+- Testemunhal (gerente comercial e potenciais compradores envolvidos nas negociações);  
+- Pericial contábil para verificar eventual desvio de recursos da sociedade;  
+- Inspeção judicial, se necessário, da área objeto da negociação irregular.  
+
+---
 
 ### **3. DO DIREITO**
 
@@ -140,6 +176,8 @@ No presente caso, os requisitos para concessão de **tutela de urgência** estã
 
 Diante disso, é **imperioso** o **afastamento liminar do administrador Victor Bernardes**, com a **nomeação provisória do sócio minoritário Jefferson Almeida**, como medida indispensável à preservação do patrimônio social e à continuidade das atividades empresariais.
 
+---
+
 ### **4. DOS PEDIDOS**
 
 À vista dos fatos narrados e do direito aplicável, requer o Autor a Vossa Excelência:
@@ -172,40 +210,35 @@ Com fulcro no art. 319, VII, do CPC, protesta-se por receber **todas as intimaç
 Termos em que,  
 pede deferimento.
 
+---
+
 ### **5. DOCUMENTOS ANEXOS**
 
 #### **a. Violação do contrato social e alienação unilateral de imóvel**
-
 - **Anexo 01** – 7ª Alteração Contratual das sociedades (cláusula sobre necessidade de anuência unânime)  
-- **Anexo 02** – Contrato de aquisição dos lotes de Japaratinga (`arq0005.pdf` e `arq0008.pdf`)  
-- **Anexo 03** – Extratos bancários demonstrando quitação dos contratos pela empresa (`arq0011–arq0015.pdf`)  
-- **Anexo 04** – Cópia do contrato de venda realizado unilateralmente por Victor Bernardes  
+- **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
+- **Anexo 03** – Extratos bancários demonstrando quitação dos contratos pela empresa  
+- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes  
 
 #### **b. Perda de área doada pela Prefeitura de Terenos**
-
-- **Anexo 05** – Lei Municipal nº 1392/2023, que concedeu a área à Fetra Ltda. (`arq0016.pdf`)  
-- **Anexo 06** – Contratos de fornecimento de equipamentos industriais (`arq0018.pdf`, `arq0019.pdf`, `arq0020.pdf`)  
-- **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025 (`arq0017.pdf`)  
+- **Anexo 05** – Lei Municipal nº 1392/2023, que concedeu a área à Fetra Ltda.  
+- **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
+- **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025  
 
 #### **c. Paralisação total das atividades empresariais**
-
 - **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
 - **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
 - **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
 - **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
 
 #### **d. Ocultação de retroescavadeiras e arresto judicial**
-
 - **Anexo 12** – Contrato de parceria firmado com a empresa Gonpec  
 - **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
 - **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
 - **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
 
 #### **e. Tentativa de desvio de área da Fetra via SPE particular**
-
 - **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
 - **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
 - **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
-- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta
-
----
+- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta  
