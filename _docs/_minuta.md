@@ -187,11 +187,11 @@ pede deferimento.
 
 **🗂️ Anexos já existentes**  
 - **Anexo 01** – 7ª Alteração Contratual das sociedades  
-  → [`docs/arq0001.pdf`](docs/arq0001.pdf)  
+  → [`_docs/arq0001.pdf`](_docs/arq0001.pdf)  
 - **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
-  → [`docs/arq0003.pdf`](docs/arq0003.pdf), [`docs/arq0004.pdf`](docs/arq0004.pdf), [`docs/arq0005.pdf`](docs/arq0005.pdf), [`docs/arq0008.pdf`](docs/arq0008.pdf), [`docs/arq0010.md`](docs/arq0010.md)  
+  → [`_docs/arq0003.pdf`](_docs/arq0003.pdf), [`_docs/arq0004.pdf`](_docs/arq0004.pdf), [`_docs/arq0005.pdf`](_docs/arq0005.pdf), [`_docs/arq0008.pdf`](_docs/arq0008.pdf), [`_docs/arq0010.md`](_docs/arq0010.md)  
 - **Anexo 03** – Extratos bancários demonstrando quitação dos contratos  
-  → [`docs/arq0011.pdf`](docs/arq0011.pdf), [`docs/arq0012.pdf`](docs/arq0012.pdf), [`docs/arq0013.pdf`](docs/arq0013.pdf), [`docs/arq0014.pdf`](docs/arq0014.pdf), [`docs/arq0015.pdf`](docs/arq0015.pdf)
+  → [`_docs/arq0011.pdf`](_docs/arq0011.pdf), [`_docs/arq0012.pdf`](_docs/arq0012.pdf), [`_docs/arq0013.pdf`](_docs/arq0013.pdf), [`_docs/arq0014.pdf`](_docs/arq0014.pdf), [`_docs/arq0015.pdf`](_docs/arq0015.pdf)
 
 **📥 Anexos a serem adquiridos**  
 - **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes
@@ -202,11 +202,11 @@ pede deferimento.
 
 **🗂️ Anexos já existentes**  
 - **Anexo 05** – Lei Municipal nº 1392/2023  
-  → [`docs/arq0016.pdf`](docs/arq0016.pdf)  
+  → [`_docs/arq0016.pdf`](_docs/arq0016.pdf)  
 - **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
-  → [`docs/arq0018.pdf`](docs/arq0018.pdf), [`docs/arq0019.pdf`](docs/arq0019.pdf), [`docs/arq0020.pdf`](docs/arq0020.pdf)  
+  → [`_docs/arq0018.pdf`](_docs/arq0018.pdf), [`_docs/arq0019.pdf`](_docs/arq0019.pdf), [`_docs/arq0020.pdf`](_docs/arq0020.pdf)  
 - **Anexo 07** – Termo de Revogação expedido pelo Município  
-  → [`docs/arq0017.pdf`](docs/arq0017.pdf)
+  → [`_docs/arq0017.pdf`](_docs/arq0017.pdf)
 
 ---
 
@@ -237,4 +237,3 @@ pede deferimento.
 - **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
 - **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
 - **Anexo 19** – Prova da ausência de autorização societária para a operação proposta
-
