@@ -27,8 +27,6 @@ Não obstante, Victor Bernardes, já na qualidade de administrador, **alienou os
 
 Essa conduta representa **grave violação aos deveres fiduciários do administrador**, expondo a sociedade a risco de dilapidação patrimonial e comprometendo a confiança necessária à governança societária.  
 
----
-
 📄 **Documentos comprobatórios**  
 - **Anexo 01** – 7ª Alteração Contratual das sociedades (cláusula de anuência unânime)  
 - **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
@@ -88,8 +86,6 @@ Tal episódio configura não apenas **gestão temerária**, mas também ato de *
 - **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
 - **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
 
----
-
 ## **c.2. Desvio de oportunidade de negócio e utilização da empresa “Nova Frida” em detrimento da Fetra Ltda.**
 
 Foi identificado que o administrador **Victor Bernardes** buscou utilizar indevidamente a estrutura da sociedade **Fetra Ltda.** em tratativas comerciais com investidores, mas em benefício exclusivo da empresa **Nova Frida**, de sua propriedade exclusiva, em evidente **conflito de interesses, desvio de oportunidade de negócio e confusão patrimonial**.  
@@ -101,8 +97,6 @@ Adicionalmente, para fins de auditoria e preservação da cadeia de custódia da
 A conduta revela que Victor Bernardes **desviou oportunidade de negócio que deveria beneficiar a Fetra Ltda.**, valendo-se de sua posição de administrador e da estrutura societária (recursos humanos, marca e imagem institucional da empresa) para favorecer sociedade particular de sua titularidade exclusiva.  
 
 Tal prática configura ato doloso de **enriquecimento ilícito às custas da sociedade**, além de grave violação aos deveres de lealdade, transparência e diligência impostos pelo art. 1.011 do Código Civil, impondo o afastamento imediato do requerido da administração.  
-
----
 
 ### 📄 **Documentos comprobatórios – Desvio de oportunidade em favor da Nova Frida**
 
