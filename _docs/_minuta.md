@@ -90,19 +90,27 @@ Tal episódio configura não apenas **gestão temerária**, mas também ato de *
 
 ---
 
-#### **c.2. Tentativa de desvio de área da Fetra via SPE particular**
+## **c.2. Desvio de oportunidade de negócio e utilização da empresa “Nova Frida” em detrimento da Fetra Ltda.**
 
-Foi identificada a tentativa de **negociação de área adquirida pela Fetra Ltda. por intermédio de uma SPE pertencente exclusivamente a Victor Bernardes**, sem qualquer participação societária da empresa beneficiária original do bem.  
+Foi identificado que o administrador **Victor Bernardes** buscou utilizar indevidamente a estrutura da sociedade **Fetra Ltda.** em tratativas comerciais com investidores, mas em benefício exclusivo da empresa **Nova Frida**, de sua propriedade exclusiva, em evidente **conflito de interesses, desvio de oportunidade de negócio e confusão patrimonial**.  
 
-As tratativas foram conduzidas inclusive com o envolvimento do **gerente comercial da Fetra**, utilizando recursos humanos e patrimoniais da sociedade para favorecer negócio particular do administrador. Trata-se de hipótese evidente de **desvio de oportunidade de negócio** e de **confusão patrimonial**, em que a linha entre interesses da pessoa jurídica e interesses pessoais do administrador é propositalmente borrada.  
+Em comunicação eletrônica encaminhada pelo **gerente comercial da Fetra, Sr. Otávio Cassimiro**, a potenciais investidores (**Anexo 16**), foram enviados documentos oficiais que, embora elaborados em **papel timbrado da Fetra** e acompanhados de **apresentação institucional da sociedade** (**Anexo 18**), indicavam como parte contratante a **empresa Nova Frida** (**Anexo 17**), pertencente exclusivamente a Victor Bernardes, conforme se comprova por meio de seu contrato social (**Anexo 19**).  
 
-Tal conduta representa ato doloso de **enriquecimento ilícito às custas da sociedade**, comprometendo a integridade da gestão e violando frontalmente os deveres de lealdade e de preservação do patrimônio social previstos no art. 1.011 do Código Civil.  
+Adicionalmente, para fins de auditoria e preservação da cadeia de custódia da prova, junta-se também o **arquivo original da mensagem eletrônica em formato .eml** (**Anexo 20**), o qual confirma a autenticidade do envio.  
 
-📄 **Documentos comprobatórios**  
-- **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
-- **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
-- **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
-- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta   
+A conduta revela que Victor Bernardes **desviou oportunidade de negócio que deveria beneficiar a Fetra Ltda.**, valendo-se de sua posição de administrador e da estrutura societária (recursos humanos, marca e imagem institucional da empresa) para favorecer sociedade particular de sua titularidade exclusiva.  
+
+Tal prática configura ato doloso de **enriquecimento ilícito às custas da sociedade**, além de grave violação aos deveres de lealdade, transparência e diligência impostos pelo art. 1.011 do Código Civil, impondo o afastamento imediato do requerido da administração.  
+
+---
+
+### 📄 **Documentos comprobatórios – Desvio de oportunidade em favor da Nova Frida**
+
+- **Anexo 16** – E-mail enviado pelo gerente comercial da Fetra a potenciais investidores (arq0021.pdf)  
+- **Anexo 17** – Modelo de contrato de parceria, em papel timbrado da Fetra, mas indicando como beneficiária a empresa Nova Frida (arq0022.pdf)  
+- **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas (arq0023.pdf)  
+- **Anexo 19** – Contrato social da empresa Nova Frida, pertencente exclusivamente a Victor Bernardes (arq0024.pdf)  
+- **Anexo 20** – Arquivo original da mensagem eletrônica em formato `.eml`, para fins de verificação técnica e auditoria (arq0025.eml)  
 
 ---
 
@@ -192,17 +200,18 @@ pede deferimento.
   → [Proposta de Compra dos Lotes (Edmilson)](./_docs/arq0003.pdf)  
   → [Comprovante de pagamento – 1ª parcela](./_docs/arq0004.pdf)  
   → [Contrato de Compra dos 7 Lotes (sem assinatura da outra parte)](./_docs/arq0005.pdf)  
+  → [Contrato de Compra da Área da Fiscosul](./_docs/arq0006.pdf)  
   → [Contrato de Compra do 8º Lote (assinado por todas as partes)](./_docs/arq0008.pdf)  
   → [Tabela consolidada dos pagamentos de Japaratinga](./_docs/arq0010.md)  
-- **Anexo 3 – Extratos bancários demonstrando a quitação dos contratos (com as transações grifadas em cada mês)**
+- **Anexo 03** – Extratos bancários demonstrando a quitação dos contratos (com as transações grifadas em cada mês)  
   → [Extrato Sicredi – Maio/2023](./_docs/arq0011.pdf)  
   → [Extrato Sicredi – Junho/2023](./_docs/arq0012.pdf)  
   → [Extrato Sicredi – Agosto/2023](./_docs/arq0013.pdf)  
   → [Extrato Sicredi – Setembro/2023](./_docs/arq0014.pdf)  
-  → [Extrato Sicredi – Outubro/2023](./_docs/arq0015.pdf)
+  → [Extrato Sicredi – Outubro/2023](./_docs/arq0015.pdf)  
 
 **📥 Anexos a serem adquiridos**  
-- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes
+- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes  
 
 ---
 
@@ -216,7 +225,7 @@ pede deferimento.
   → [Contrato – WCH](./_docs/arq0019.pdf)  
   → [Contrato – SCHNELL BRASIL](./_docs/arq0020.pdf)  
 - **Anexo 07** – Termo de Revogação da doação  
-  → [Termo de Revogação – Município de Terenos](./_docs/arq0017.pdf)
+  → [Termo de Revogação – Município de Terenos](./_docs/arq0017.pdf)  
 
 ---
 
@@ -226,24 +235,33 @@ pede deferimento.
 - **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
 - **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
 - **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
-- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações
+- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
 
 ---
 
 #### **d. Ocultação de retroescavadeiras e arresto judicial**
 
+**🗂️ Anexos já existentes**  
+- **Anexo 12** – Distrato da parceria firmado entre Fetra e Gonpec  
+  → [Distrato da Parceria Fetra x Gonpec](./_docs/arq0009.pdf)  
+
 **📥 Anexos a serem adquiridos**  
-- **Anexo 12** – Contrato de parceria firmado com a Gonpec  
 - **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
 - **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas  
-- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios
+- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
 
 ---
 
-#### **e. Tentativa de desvio de área da Fetra via SPE particular**
+#### **e. Desvio de oportunidade de negócio em favor da Nova Frida**
 
-**📥 Anexos a serem adquiridos**  
-- **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
-- **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
-- **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
-- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta
+**🗂️ Anexos já existentes**  
+- **Anexo 16** – E-mail enviado pelo gerente comercial da Fetra a potenciais investidores  
+  → [arq0021.pdf](./_docs/arq0021.pdf)  
+- **Anexo 17** – Modelo de contrato de parceria em papel timbrado da Fetra, mas indicando como beneficiária a empresa Nova Frida  
+  → [arq0022.pdf](./_docs/arq0022.pdf)  
+- **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas  
+  → [arq0023.pdf](./_docs/arq0023.pdf)  
+- **Anexo 19** – Contrato social da empresa Nova Frida, pertencente exclusivamente a Victor Bernardes  
+  → [arq0024.pdf](./_docs/arq0024.pdf)  
+- **Anexo 20** – Arquivo original da mensagem eletrônica em formato `.eml`, para fins de verificação técnica e auditoria  
+  → [arq0025.eml](./_docs/arq0025.eml)  

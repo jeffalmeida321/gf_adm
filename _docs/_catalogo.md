@@ -28,6 +28,11 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 18. [arq0018.pdf](#18-arq0018pdf) – Contrato de Compra de Equipamentos – FORMATEC (unidade de Terenos)
 19. [arq0019.pdf](#19-arq0019pdf) – Contrato de Compra de Equipamentos – WCH (unidade de Terenos)
 20. [arq0020.pdf](#20-arq0020pdf) – Contrato de Compra de Equipamentos – SCHNELL BRASIL S.A. (unidade de Terenos)
+21. [arq0021.pdf](#21-arq0021pdf) – E-mail enviado por gerente comercial da Fetra a investidor (parceria envolvendo Nova Frida)
+22. [arq0022.pdf](#22-arq0022pdf) – Modelo de contrato de parceria (timbrado da Fetra, com Nova Frida como parte)
+23. [arq0023.pdf](#23-arq0023pdf) – Apresentação institucional para investidores (enviada no e-mail arq0021)
+24. [arq0024.pdf](#24-arq0024pdf) – Contrato social da empresa Nova Frida
+25. [arq0025.eml](#25-arq0025eml) – E-mail original em formato .eml (mensagem completa para auditoria)
 
 ---
 
@@ -252,3 +257,57 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 - Nome original: *arq0020.pdf*  
 - Observações: Contrato de aquisição de equipamentos industriais fornecidos pela **SCHNELL BRASIL S.A. – Indústria de Máquinas**, no valor de **R$ 2.000.000,00**, destinados à implantação da unidade fabril da Fetra Ltda. no Município de Terenos. **O contrato foi devidamente assinado por ambas as partes e integralmente pago durante a gestão do sócio administrador Jefferson Almeida.** Tal como os contratos arq0018.pdf e arq0019.pdf, este documento integra o conjunto de investimentos realizados na planta fabril cuja área acabou sendo perdida – constituindo **evidência direta de prejuízo patrimonial relacionado ao Fato 2 – perda da área doada por descumprimento das condições contratuais**.
 
+---
+
+## 21. arq0021.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **E-mail enviado pelo gerente comercial da Fetra a potencial investidor** (contendo *modelo de contrato de parceria e apresentação institucional*)  
+- Tipo de documento: Comunicação eletrônica (arquivo original em PDF)  
+- Origem: **Documento interno – enviado por Otávio Cassimiro (gerente comercial da Fetra)**  
+- Nome original: *arq0021.pdf*  
+- Observações: Trata-se de e-mail encaminhado pelo então gerente comercial da Fetra, **Otávio Cassimiro**, a um potencial parceiro investidor. O arquivo contém: (i) **modelo de contrato de parceria** que, apesar de estar em **papel timbrado da Fetra**, identifica como parte contratante a **empresa Nova Frida**, pertencente exclusivamente a Victor Bernardes; e (ii) **apresentação institucional para investidores**, também veiculada em nome da Fetra. A área comercializada foi **comprada pela Fetra** (contrato de compra em nome da sociedade), sendo a **entrada paga com recursos financeiros da própria Fetra**. O documento evidencia **utilização da estrutura e imagem da Fetra para benefício particular do sócio administrador Victor Bernardes**, configurando **conflito de interesses, desvio de oportunidade de negócio e confusão patrimonial**. 
+
+---
+
+## 22. arq0022.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Modelo de contrato de parceria enviado a investidor (anexo ao e-mail arq0021)**  
+- Tipo de documento: Minuta contratual (arquivo original em PDF)  
+- Origem: **Documento interno elaborado sob a gestão de Victor Bernardes**  
+- Nome original: *arq0022.pdf*  
+- Observações: Trata-se do **modelo de contrato** encaminhado pelo gerente comercial da Fetra ao potencial investidor (conforme e-mail catalogado no arq0021.pdf). Embora esteja **impresso em papel timbrado da Fetra**, o contrato identifica como parte contratante a **empresa Nova Frida**, pertencente exclusivamente ao sócio administrador Victor Bernardes. O documento evidencia **utilização indevida da marca e estrutura da Fetra para intermediar negócio particular do administrador**, configurando **conflito de interesses e desvio patrimonial**.
+
+---
+
+## 23. arq0023.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Apresentação institucional para investidores** (anexa ao e-mail arq0021)  
+- Tipo de documento: Apresentação corporativa (arquivo original em PDF)  
+- Origem: **Documento interno da Fetra enviado por Otávio Cassimiro (gerente comercial)**  
+- Nome original: *arq0023.pdf*  
+- Observações: Apresentação destinada a investidores, enviada juntamente com o modelo de contrato no e-mail registrado como arq0021.pdf. A apresentação utiliza o **nome, marca e informações institucionais da Fetra**, mas foi empregada no contexto de uma tratativa em que o **beneficiário real da parceria seria a empresa Nova Frida**, pertencente exclusivamente ao sócio administrador Victor Bernardes, configurando **desvio de finalidade e confusão patrimonial**.
+
+---
+
+## 24. arq0024.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Contrato social da empresa Nova Frida** (anexo ao e-mail arq0021)  
+- Tipo de documento: Contrato social / ato constitutivo (arquivo original em PDF)  
+- Origem: **Documento societário oficial – Nova Frida (empresa pertencente exclusivamente a Victor Bernardes)**  
+- Nome original: *arq0024.pdf*  
+- Observações: Documento encaminhado juntamente com o e-mail catalogado no arq0021.pdf, contendo o **contrato social da Nova Frida**, empresa pertencente exclusivamente ao sócio administrador Victor Bernardes. O envio comprova que a **proposta de parceria apresentada em nome da Fetra tinha como beneficiária real a Nova Frida**, evidenciando **conflito de interesses, desvio patrimonial e utilização indevida da estrutura societária da Fetra para fins particulares do administrador**.
+
+---
+
+## 25. arq0025.eml
+
+- Data de geração: *não informada*  
+- Referente a: **E-mail original enviado pelo gerente comercial da Fetra a potencial investidor**  
+- Tipo de documento: Mensagem eletrônica (formato .eml para auditoria)  
+- Origem: **Documento interno – mensagem encaminhada por Otávio Cassimiro (gerente comercial da Fetra)**  
+- Nome original: *arq0025.eml*  
+- Observações: Trata-se do **arquivo original da mensagem eletrônica** correspondente ao conteúdo descrito no arq0021.pdf, preservado em formato `.eml` para fins de **verificação técnica e auditoria forense**. A mensagem contém o texto integral do e-mail enviado e os anexos posteriormente salvos como arq0022.pdf, arq0023.pdf e arq0024.pdf.
