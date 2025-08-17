@@ -35,16 +35,9 @@ Essa conduta representa **grave violação aos deveres fiduciários do administr
 - **Anexo 03** – Extratos bancários comprovando a quitação dos contratos pela empresa  
 - **Anexo 04** – Contrato de venda unilateral realizado por Victor Bernardes  
 
-📌 **Provas complementares a produzir**  
-- Testemunhal (sócios e ex-administradores);  
-- Pericial contábil para apurar movimentações financeiras relativas à alienação;  
-- Inspeção judicial, se necessário, para verificar registros imobiliários.  
-
 ### **b. Gestão temerária e negligência administrativa**
 
 A gestão exercida por Victor Bernardes tem se caracterizado pela prática de atos que revelam **grave negligência administrativa**, resultando em prejuízos patrimoniais concretos e no comprometimento da própria continuidade das sociedades. Dois episódios, em especial, evidenciam esse padrão de conduta: (i) a perda de área doada pelo Município de Terenos, e (ii) a paralisação total das atividades empresariais.  
-
----
 
 #### **b.1. Perda de área doada pela Prefeitura de Terenos**
 
@@ -61,13 +54,6 @@ Tal conduta representou não apenas a **perda da área destinada à expansão da
 - **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
 - **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025  
 
-📌 **Provas complementares a produzir**  
-- Testemunhal (ex-funcionários, autoridades municipais envolvidas no processo de doação);  
-- Pericial contábil para avaliar o valor dos investimentos perdidos;  
-- Inspeção judicial no local da área revogada, se necessário.  
-
----
-
 #### **b.2. Paralisação total das atividades empresariais**
 
 Sob a administração de **Victor Bernardes**, as sociedades **Concresul Ltda.** e **Fetra Ltda.** encontram-se atualmente **totalmente inoperantes**, com a fábrica e o escritório fechados, sem qualquer atividade operacional ou geração de receita.  
@@ -82,18 +68,11 @@ A conduta caracteriza inequívoco **ato de gestão temerária**, pois representa
 - **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
 - **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
 - **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
-- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
-
-📌 **Provas complementares a produzir**  
-- Testemunhal (ex-funcionários, fornecedores e clientes afetados);  
-- Pericial contábil e financeira para mensurar prejuízos decorrentes da paralisação;  
-- Inspeção judicial nas instalações da empresa, se necessário.  
+- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações   
 
 ### **c. Conflito de interesses, desvio de bens e confusão patrimonial**
 
 A administração de Victor Bernardes também tem se caracterizado por atos dolosos, voltados à utilização do patrimônio social em benefício próprio e em conflito direto com os interesses das sociedades. Dois episódios são particularmente ilustrativos: (i) a ocultação de retroescavadeiras objeto de parceria empresarial, com consequente arresto judicial das contas dos sócios, e (ii) a tentativa de utilização de área adquirida pela Fetra em proveito exclusivo de SPE particular do administrador.  
-
----
 
 #### **c.1. Ocultação de retroescavadeiras e arresto judicial de contas**
 
@@ -109,11 +88,6 @@ Tal episódio configura não apenas **gestão temerária**, mas também ato de *
 - **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
 - **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
 
-📌 **Provas complementares a produzir**  
-- Testemunhal (representantes da Gonpec e funcionários envolvidos na operação das máquinas);  
-- Pericial contábil para apurar os efeitos financeiros do arresto;  
-- Inspeção judicial, se necessário, para verificar a localização e o estado dos equipamentos.  
-
 ---
 
 #### **c.2. Tentativa de desvio de área da Fetra via SPE particular**
@@ -128,12 +102,7 @@ Tal conduta representa ato doloso de **enriquecimento ilícito às custas da soc
 - **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
 - **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
 - **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
-- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta  
-
-📌 **Provas complementares a produzir**  
-- Testemunhal (gerente comercial e potenciais compradores envolvidos nas negociações);  
-- Pericial contábil para verificar eventual desvio de recursos da sociedade;  
-- Inspeção judicial, se necessário, da área objeto da negociação irregular.  
+- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta   
 
 ---
 
@@ -215,30 +184,57 @@ pede deferimento.
 ### **5. DOCUMENTOS ANEXOS**
 
 #### **a. Violação do contrato social e alienação unilateral de imóvel**
-- **Anexo 01** – 7ª Alteração Contratual das sociedades (cláusula sobre necessidade de anuência unânime)  
+
+**🗂️ Anexos já existentes**  
+- **Anexo 01** – 7ª Alteração Contratual das sociedades  
+  → [`docs/arq0001.pdf`](docs/arq0001.pdf)  
 - **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
-- **Anexo 03** – Extratos bancários demonstrando quitação dos contratos pela empresa  
-- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes  
+  → [`docs/arq0003.pdf`](docs/arq0003.pdf), [`docs/arq0004.pdf`](docs/arq0004.pdf), [`docs/arq0005.pdf`](docs/arq0005.pdf), [`docs/arq0008.pdf`](docs/arq0008.pdf), [`docs/arq0010.md`](docs/arq0010.md)  
+- **Anexo 03** – Extratos bancários demonstrando quitação dos contratos  
+  → [`docs/arq0011.pdf`](docs/arq0011.pdf), [`docs/arq0012.pdf`](docs/arq0012.pdf), [`docs/arq0013.pdf`](docs/arq0013.pdf), [`docs/arq0014.pdf`](docs/arq0014.pdf), [`docs/arq0015.pdf`](docs/arq0015.pdf)
+
+**📥 Anexos a serem adquiridos**  
+- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes
+
+---
 
 #### **b. Perda de área doada pela Prefeitura de Terenos**
-- **Anexo 05** – Lei Municipal nº 1392/2023, que concedeu a área à Fetra Ltda.  
+
+**🗂️ Anexos já existentes**  
+- **Anexo 05** – Lei Municipal nº 1392/2023  
+  → [`docs/arq0016.pdf`](docs/arq0016.pdf)  
 - **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
-- **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025  
+  → [`docs/arq0018.pdf`](docs/arq0018.pdf), [`docs/arq0019.pdf`](docs/arq0019.pdf), [`docs/arq0020.pdf`](docs/arq0020.pdf)  
+- **Anexo 07** – Termo de Revogação expedido pelo Município  
+  → [`docs/arq0017.pdf`](docs/arq0017.pdf)
+
+---
 
 #### **c. Paralisação total das atividades empresariais**
+
+**📥 Anexos a serem adquiridos**  
 - **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
 - **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
 - **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
-- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
+- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações
+
+---
 
 #### **d. Ocultação de retroescavadeiras e arresto judicial**
+
+**📥 Anexos a serem adquiridos**  
 - **Anexo 12** – Contrato de parceria firmado com a empresa Gonpec  
 - **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
-- **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
-- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
+- **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas  
+- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios
+
+---
 
 #### **e. Tentativa de desvio de área da Fetra via SPE particular**
+
+**📥 Anexos a serem adquiridos**  
 - **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
 - **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
 - **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
-- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta  
+- **Anexo 19** – Prova da ausência de autorização societária para a operação proposta
+
