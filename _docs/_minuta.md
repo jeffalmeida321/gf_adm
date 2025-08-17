@@ -187,11 +187,19 @@ pede deferimento.
 
 **🗂️ Anexos já existentes**  
 - **Anexo 01** – 7ª Alteração Contratual das sociedades  
-  → [`_docs/arq0001.pdf`](_docs/arq0001.pdf)  
+  → `_docs/arq0001.pdf` – Instrumento completo da 7ª alteração contratual  
 - **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
-  → [`_docs/arq0003.pdf`](_docs/arq0003.pdf), [`_docs/arq0004.pdf`](_docs/arq0004.pdf), [`_docs/arq0005.pdf`](_docs/arq0005.pdf), [`_docs/arq0008.pdf`](_docs/arq0008.pdf), [`_docs/arq0010.md`](_docs/arq0010.md)  
-- **Anexo 03** – Extratos bancários demonstrando quitação dos contratos  
-  → [`_docs/arq0011.pdf`](_docs/arq0011.pdf), [`_docs/arq0012.pdf`](_docs/arq0012.pdf), [`_docs/arq0013.pdf`](_docs/arq0013.pdf), [`_docs/arq0014.pdf`](_docs/arq0014.pdf), [`_docs/arq0015.pdf`](_docs/arq0015.pdf)
+  → `_docs/arq0003.pdf` – Proposta de Compra dos Lotes (Edmilson)  
+  → `_docs/arq0004.pdf` – Comprovante de pagamento – 1ª parcela  
+  → `_docs/arq0005.pdf` – Contrato de Compra dos 7 Lotes (sem assinatura da outra parte)  
+  → `_docs/arq0008.pdf` – Contrato de Compra do 8º Lote (assinado por todas as partes)  
+  → `_docs/arq0010.md` – Tabela de Pagamentos consolidada dos contratos de Japaratinga  
+- **Anexo 03** – Extratos bancários (quitação dos contratos)  
+  → `_docs/arq0011.pdf` – Extrato Sicredi – Maio/2023  
+  → `_docs/arq0012.pdf` – Extrato Sicredi – Junho/2023  
+  → `_docs/arq0013.pdf` – Extrato Sicredi – Agosto/2023  
+  → `_docs/arq0014.pdf` – Extrato Sicredi – Setembro/2023  
+  → `_docs/arq0015.pdf` – Extrato Sicredi – Outubro/2023
 
 **📥 Anexos a serem adquiridos**  
 - **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes
@@ -202,11 +210,13 @@ pede deferimento.
 
 **🗂️ Anexos já existentes**  
 - **Anexo 05** – Lei Municipal nº 1392/2023  
-  → [`_docs/arq0016.pdf`](_docs/arq0016.pdf)  
+  → `_docs/arq0016.pdf` – Lei de Doação da área (Terenos → Fetra)  
 - **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
-  → [`_docs/arq0018.pdf`](_docs/arq0018.pdf), [`_docs/arq0019.pdf`](_docs/arq0019.pdf), [`_docs/arq0020.pdf`](_docs/arq0020.pdf)  
-- **Anexo 07** – Termo de Revogação expedido pelo Município  
-  → [`_docs/arq0017.pdf`](_docs/arq0017.pdf)
+  → `_docs/arq0018.pdf` – Contrato – FORMATEC  
+  → `_docs/arq0019.pdf` – Contrato – WCH  
+  → `_docs/arq0020.pdf` – Contrato – SCHNELL BRASIL  
+- **Anexo 07** – Termo de Revogação da doação  
+  → `_docs/arq0017.pdf` – Termo de Revogação – Município de Terenos
 
 ---
 
@@ -223,10 +233,9 @@ pede deferimento.
 #### **d. Ocultação de retroescavadeiras e arresto judicial**
 
 **📥 Anexos a serem adquiridos**  
-- **Anexo 12** – Contrato de parceria firmado com a empresa Gonpec  
+- **Anexo 12** – Contrato de parceria firmado com a Gonpec  
 - **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
-- **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas  
-- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios
+- **Anexos 14 e 15** – Registros da ocultação das máquinas e decisão de arresto
 
 ---
 
@@ -235,5 +244,5 @@ pede deferimento.
 **📥 Anexos a serem adquiridos**  
 - **Anexo 16** – E-mails entre o gerente comercial da Fetra e potenciais compradores  
 - **Anexo 17** – Comprovantes de aquisição da área pela Fetra Ltda.  
-- **Anexo 18** – Documento societário da SPE pertencente exclusivamente a Victor Bernardes  
+- **Anexo 18** – Documento societário da SPE de Victor Bernardes  
 - **Anexo 19** – Prova da ausência de autorização societária para a operação proposta
