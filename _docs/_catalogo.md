@@ -23,7 +23,11 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 13. [arq0013.pdf](#13-arq0013pdf) – Extrato Sicredi – Agosto/2023 (pagamento Contrato 1, grifado)
 14. [arq0014.pdf](#14-arq0014pdf) – Extrato Sicredi – Setembro/2023 (pagamento Contrato 1, grifado)
 15. [arq0015.pdf](#15-arq0015pdf) – Extrato Sicredi – Outubro/2023 (pagamento Contrato 1, grifado)
-
+16. [arq0016.pdf](#16-arq0016pdf) – Lei Municipal nº 1392/2023 – Doação de área (Terenos → Fetra)
+17. [arq0017.pdf](#17-arq0017pdf) – Termo de Revogação da Doação da Área – Município de Terenos
+18. [arq0018.pdf](#18-arq0018pdf) – Contrato de Compra de Equipamentos – FORMATEC (unidade de Terenos)
+19. [arq0019.pdf](#19-arq0019pdf) – Contrato de Compra de Equipamentos – WCH (unidade de Terenos)
+20. [arq0020.pdf](#20-arq0020pdf) – Contrato de Compra de Equipamentos – SCHNELL BRASIL S.A. (unidade de Terenos)
 
 ---
 
@@ -192,3 +196,59 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 - Origem: **Documento bancário oficial emitido pelo Sicredi**  
 - Nome original: arq0015.pdf  
 - Observações: Extrato mensal contendo a transação grifada correspondente ao pagamento da parcela do **Contrato 1** (Contrato de Compra dos 7 Lotes de Japaratinga), no valor de **R$ 750.000,00**, realizada em **05/10/2023**. A linha referente à transação está **marcada em amarelo** para facilitar a visualização e comprovação do pagamento.
+
+---
+
+## 16. arq0016.pdf
+
+- Data de geração: *28/08/2023*  
+- Referente a: **Lei Municipal nº 1392/2023 – Doação de área pelo Município de Terenos à Fetra Ltda.**  
+- Tipo de documento: Lei municipal / ato administrativo (arquivo original em PDF)  
+- Origem: **Publicação oficial no Diário Oficial da Associação dos Municípios**  
+- Nome original: *lei-municipal-ordinaria-n013922023-de-28-de-agosto-de-2023.pdf*  
+- Observações: Trata-se da lei municipal que formaliza a **doação de um terreno pelo Município de Terenos à Fetra Ltda.**, para implantação de unidade fabril. A doação foi realizada durante a gestão do sócio administrador Jefferson Almeida e está diretamente vinculada ao **Fato 2 – Perda de área doada por descumprimento das condições contratuais**.
+
+---
+
+## 17. arq0017.pdf
+
+- Data de geração: *01/04/2025*  
+- Referente a: **Termo de Revogação da Doação – Município de Terenos (Área da Fetra Ltda.)**  
+- Tipo de documento: Ato administrativo / revogação (arquivo original em PDF)  
+- Origem: **Publicação oficial no Diário Oficial do Município de Terenos**  
+- Nome original: *arq0017.pdf*  
+- Observações: Documento que revoga formalmente a doação do terreno anteriormente concedido à Fetra Ltda. pelo Município de Terenos, em razão do **descumprimento das obrigações previstas na Lei Municipal nº 1392/2023**. A revogação ocorreu durante a gestão do administrador Victor Bernardes e configura **evidência direta do Fato 2 – Perda de área doada por descumprimento das condições contratuais**, com consequente prejuízo patrimonial para a sociedade.
+
+---
+
+## 18. arq0018.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Contrato de Compra de Equipamentos – FORMATEC (unidade fabril de Terenos)**  
+- Tipo de documento: Contrato de fornecimento (arquivo original em PDF)  
+- Origem: **Documento societário oficial / contrato firmado entre Fetra Ltda. e Formatec**  
+- Nome original: *arq0018.pdf*  
+- Observações: Contrato de aquisição de equipamentos industriais fornecidos pela FORMATEC, no valor de **R$ 1.700.000,00**, destinados à implantação da nova unidade fabril da Fetra Ltda. no Município de Terenos. **O contrato foi devidamente assinado por todas as partes e integralmente pago durante a gestão do sócio administrador Jefferson Almeida.** A perda da área doada (Lei Municipal nº 1392/2023), posteriormente revogada, gerou **prejuízo patrimonial direto** em virtude da inutilização dos equipamentos adquiridos – vínculo com o **Fato 2 – Perda de área doada por descumprimento das condições contratuais**.
+
+---
+
+## 19. arq0019.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Contrato de Compra de Equipamentos – WCH (unidade fabril de Terenos)**  
+- Tipo de documento: Contrato de fornecimento (arquivo original em PDF)  
+- Origem: **Documento societário oficial / contrato firmado entre Fetra Ltda. e WCH**  
+- Nome original: *arq0019.pdf*  
+- Observações: Contrato de aquisição de equipamentos industriais fornecidos pela empresa **WCH**, no valor de **R$ 8.616.000,00**, destinados à implantação da nova unidade fabril da Fetra Ltda. no Município de Terenos. **O contrato foi devidamente assinado por ambas as partes e integralmente pago durante a gestão do sócio administrador Jefferson Almeida.** Assim como o arq0018.pdf, este contrato compõe o conjunto de investimentos realizados para a implantação da unidade e reforça o **prejuízo patrimonial decorrente do Fato 2 – perda da área doada por descumprimento das condições contratuais**.
+
+---
+
+## 20. arq0020.pdf
+
+- Data de geração: *não informada*  
+- Referente a: **Contrato de Compra de Equipamentos – SCHNELL BRASIL S.A. (unidade fabril de Terenos)**  
+- Tipo de documento: Contrato de fornecimento (arquivo original em PDF)  
+- Origem: **Documento societário oficial / contrato firmado entre Fetra Ltda. e SCHNELL BRASIL S.A. – Indústria de Máquinas**  
+- Nome original: *arq0020.pdf*  
+- Observações: Contrato de aquisição de equipamentos industriais fornecidos pela **SCHNELL BRASIL S.A. – Indústria de Máquinas**, no valor de **R$ 2.000.000,00**, destinados à implantação da unidade fabril da Fetra Ltda. no Município de Terenos. **O contrato foi devidamente assinado por ambas as partes e integralmente pago durante a gestão do sócio administrador Jefferson Almeida.** Tal como os contratos arq0018.pdf e arq0019.pdf, este documento integra o conjunto de investimentos realizados na planta fabril cuja área acabou sendo perdida – constituindo **evidência direta de prejuízo patrimonial relacionado ao Fato 2 – perda da área doada por descumprimento das condições contratuais**.
+

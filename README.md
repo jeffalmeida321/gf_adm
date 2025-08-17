@@ -25,29 +25,24 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 ├── README.md                → este documento
 ├── docs/                    → documentos brutos (contratos, certidões, emails, etc.)
 ├── facts/                   → fatos identificados (cada fato em uma subpasta)
-│   ├── fact-1/              → Alienação de imóvel sem anuência do minoritário
-│   ├── fact-2/              → Perda de área doada pela Prefeitura de Terenos
-│   ├── fact-3/              → Paralisação das atividades empresariais
-│   ├── fact-4/              → Descumprimento de parceria e ocultação de bens
-│   └── fact-5/              → Tentativa de uso de patrimônio via SPE particular
+│   ├── fact-1/
+│   │     └── fact.md        → descrição do fato + notas internas + rascunhos
+│   ├── fact-2/
+│   │     └── fact.md
+│   ├── fact-3/
+│   │     └── fact.md
+│   ├── fact-4/
+│   │     └── fact.md
+│   └── fact-5/
+│         └── fact.md
 ├── public/                  → versão “limpa” do dossiê final (para terceiros)
 └── jurisprudence/           → jurisprudência, estudos técnicos e templates de peças
 
 ```
 
-Cada pasta `fact-n/` deverá conter:
-
-```
-
-fact-n/
-├── README.md     → resumo do fato, estratégia probatória e lista de documentos vinculados
-├── analysis/     → notas técnicas e análises internas
-└── drafts/       → rascunhos de textos para o dossiê
-
-```
-
-> 📌 **Nota:** os documentos brutos não são duplicados dentro das pastas dos fatos.  
-> Eles ficam centralizados em `/docs` e são apenas **referenciados** nos READMEs de cada `fact-n`.
+> 📌 **Nota:**  
+> Os documentos brutos não são duplicados dentro das pastas dos fatos — permanecem centralizados na pasta `/docs` e são apenas **referenciados** dentro do respectivo `fact.md`.  
+> Arquivos auxiliares (planilhas, cronogramas, pareceres técnicos etc.) podem ser incluídos dentro da pasta do fato **apenas quando necessário**, desde que também sejam referenciados no `fact.md`.
 
 ---
 
@@ -55,8 +50,8 @@ fact-n/
 
 1. **Mapeamento dos fatos** (✅ concluído – ver relatório inicial em `/docs`)
 2. **Coleta de documentos e inserção na pasta `/docs`**
-3. **Referência dos documentos relevantes em cada `facts/<fact-n>/README.md`**
-4. **Elaboração de notas técnicas e análises (`analysis/`)**
+3. **Criação/atualização dos arquivos `facts/<fact-n>/fact.md`, com referência aos documentos relevantes e anotações internas**
+4. **Desenvolvimento das análises e rascunhos argumentativos diretamente no `fact.md`**
 5. **Consolidação das peças processuais e evidências selecionadas em `/public`**
 
 ---
