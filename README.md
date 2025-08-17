@@ -19,12 +19,14 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 
 ## 📁 Estrutura do repositório
 
+```
 /
 ├── README.md                → este documento
 ├── docs/                    → documentos brutos + minuta principal da ação (inclui fatos e jurisprudências)
-│     └── minuta.md          → primeira versão da petição, contendo todos os fatos e referências
+│   └── minuta.md            → primeira versão da petição, contendo todos os fatos e referências
 ├── public/                  → versão “limpa” do dossiê final (para terceiros)
 
+```
 
 📌 **Nota:** Todos os fatos e jurisprudências ficam centralizados dentro do arquivo `docs/minuta.md`.  
 Os documentos brutos permanecem na pasta `/docs` e são **referenciados** ao longo da minuta (ex: “vide Anexo 12 – Contrato Social”).
