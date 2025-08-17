@@ -23,6 +23,7 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 
 /
 ├── README.md                → este documento
+├── docs/                    → documentos brutos (contratos, certidões, emails, etc.)
 ├── facts/                   → fatos identificados (cada fato em uma subpasta)
 │   ├── fact-1/              → Alienação de imóvel sem anuência do minoritário
 │   ├── fact-2/              → Perda de área doada pela Prefeitura de Terenos
@@ -30,7 +31,7 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 │   ├── fact-4/              → Descumprimento de parceria e ocultação de bens
 │   └── fact-5/              → Tentativa de uso de patrimônio via SPE particular
 ├── public/                  → versão “limpa” do dossiê final (para terceiros)
-└── docs/                    → jurisprudência, estudos técnicos, templates
+└── jurisprudence/           → jurisprudência, estudos técnicos e templates de peças
 
 ```
 
@@ -39,22 +40,24 @@ Cada pasta `fact-n/` deverá conter:
 ```
 
 fact-n/
-├── README.md     → resumo do fato e estratégia probatória
-├── evidences/    → arquivos brutos (pdf, emails, certidões, fotos etc.)
+├── README.md     → resumo do fato, estratégia probatória e lista de documentos vinculados
 ├── analysis/     → notas técnicas e análises internas
 └── drafts/       → rascunhos de textos para o dossiê
 
 ```
 
+> 📌 **Nota:** os documentos brutos não são duplicados dentro das pastas dos fatos.  
+> Eles ficam centralizados em `/docs` e são apenas **referenciados** nos READMEs de cada `fact-n`.
+
 ---
 
 ## 🛠️ Metodologia de trabalho
 
-1. **Mapeamento dos fatos** (✅ concluído – ver relatório inicial)
-2. **Coleta de evidências por fato**
-3. **Catalogação das evidências na pasta `facts/<fact-n>/evidences`**
-4. **Análise e registro das conclusões preliminares em `analysis/`**
-5. **Consolidação em formato processual dentro da pasta `/public`**
+1. **Mapeamento dos fatos** (✅ concluído – ver relatório inicial em `/docs`)
+2. **Coleta de documentos e inserção na pasta `/docs`**
+3. **Referência dos documentos relevantes em cada `facts/<fact-n>/README.md`**
+4. **Elaboração de notas técnicas e análises (`analysis/`)**
+5. **Consolidação das peças processuais e evidências selecionadas em `/public`**
 
 ---
 
@@ -63,9 +66,7 @@ fact-n/
 A pasta `/public` será utilizada para gerar um **repositório independente**, contendo:
 
 - resumo dos fatos relevantes;
-- evidências selecionadas (organizadas por fato);
+- evidências organizadas (cada fato com seus documentos vinculados);
 - fundamentação jurídica e pedidos.
 
 Esse repositório será redigido em linguagem adequada para **apresentação a terceiros (peritos, tribunal, advogados)**.
-
----
