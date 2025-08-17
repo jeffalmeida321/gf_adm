@@ -194,7 +194,7 @@ pede deferimento.
   → [Contrato de Compra dos 7 Lotes (sem assinatura da outra parte)](./_docs/arq0005.pdf)  
   → [Contrato de Compra do 8º Lote (assinado por todas as partes)](./_docs/arq0008.pdf)  
   → [Tabela consolidada dos pagamentos de Japaratinga](./_docs/arq0010.md)  
-- **Anexo 03** – Extratos bancários (quitação dos contratos)  
+- **Anexo 3 – Extratos bancários demonstrando a quitação dos contratos (com as transações grifadas em cada mês)**
   → [Extrato Sicredi – Maio/2023](./_docs/arq0011.pdf)  
   → [Extrato Sicredi – Junho/2023](./_docs/arq0012.pdf)  
   → [Extrato Sicredi – Agosto/2023](./_docs/arq0013.pdf)  
