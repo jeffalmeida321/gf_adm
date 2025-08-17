@@ -10,50 +10,52 @@ A operação foi conduzida de forma unilateral e concluída administrativamente,
 
 ## 📄 Objetivo desta pasta
 
-Reunir todas as **evidências documentais, comunicações e registros** que comprovem:
+Organizar e analisar os documentos necessários para comprovar a existência do ato abusivo, **referenciando os arquivos depositados na pasta raiz `/docs`**.
 
-- que o imóvel fazia parte do patrimônio das sociedades;
-- que houve alienação/firmação de contrato de venda;
-- que **não houve anuência ou assinatura** do sócio minoritário no instrumento de venda;
-- que a transferência foi realizada (ou iniciada) **sem aprovação societária**;
-- que não houve convocação de reunião ou assembleia para deliberação.
+---
+
+## 📑 Documentos relevantes (armazenados em `/docs`)
+
+| Documento                                                                                 | Referência |
+|-------------------------------------------------------------------------------------------|------------|
+| Contrato Social (cláusula de anuência)                                                    | `/docs/contrato_social.pdf` |
+| Escritura de aquisição e quitação do imóvel                                               | `/docs/escritura_compra_imovel.pdf` |
+| Instrumento de venda sem assinatura do sócio minoritário                                  | `/docs/contrato_venda_unilateral.pdf` |
+| Certidão de matrícula (atualizada)                                                        | `/docs/certidao_matricula_atualizada.pdf` |
+| Extratos bancários vinculados à operação                                                  | `/docs/extratos_movimentacao_venda.pdf` |
+| Registros de convocação/reunião (ausentes – servirá de prova negativa)                    | — |
 
 ---
 
 ## 🧩 Evidências necessárias (checklist)
 
-| Item                                                        | Status |
-|------------------------------------------------------------|--------|
-| Contrato Social (cláusula de anuência)                     | ☐      |
-| Documentos de aquisição e quitação do imóvel               | ☐      |
-| Instrumento de venda / contrato com **ausência de assinatura do minoritário** | ☐      |
-| Certidão de matrícula atualizada (para verificar transferência) | ☐      |
-| Extratos de movimentações financeiras relacionadas à venda | ☐      |
-| Registros de convocação/reunião (comprovando que **não houve**) | ☐      |
+| Item                                                                                   | Status |
+|----------------------------------------------------------------------------------------|--------|
+| Verificar cláusula de consentimento no contrato social                                 | ☐      |
+| Confirmar titularidade do imóvel por meio da escritura e da matrícula                  | ☐      |
+| Comprovar alienação unilateral através do instrumento de venda                         | ☐      |
+| Verificar ausência de assinatura do sócio minoritário                                  | ☐      |
+| Verificar ausência de deliberação/convocação                                           | ☐      |
+| Relacionar valores eventualmente recebidos (via extratos bancários)                    | ☐      |
 
 ---
 
 ## 🔨 Tarefas
 
-- [ ] Inserir PDFs do contrato social e escritura de compra (pasta `evidences/`)
-- [ ] Localizar e anexar o contrato de venda unilateral
-- [ ] Solicitar certidão de matrícula atualizada do imóvel
-- [ ] Elaborar nota de análise preliminar (pasta `analysis/`)
-- [ ] Atualizar checklist acima conforme itens forem sendo incluídos
+- [ ] Revisar o contrato social e marcar cláusula relevante no documento PDF
+- [ ] Incluir observações jurídicas sobre violação contratual em `analysis/analise_preliminar.md`
+- [ ] Analisar certidão de matrícula atualizada e registrar observações
+- [ ] Incluir observação sobre inexistência de deliberação ou reunião
+- [ ] Atualizar checklist conforme itens forem confirmados
 
 ---
 
-## 📂 Estrutura sugerida para este fato
+## 📂 Estrutura desta pasta
 
 ```
 
 fact-1/
 ├── README.md
-├── evidences/
-│   ├── contrato\_social.pdf
-│   ├── escritura\_compra.pdf
-│   ├── contrato\_venda\_unilateral.pdf
-│   └── certidao\_matricula\_atualizada.pdf
 ├── analysis/
 │   └── analise\_preliminar.md
 └── drafts/
@@ -61,4 +63,4 @@ fact-1/
 
 ```
 
----
+> 📌 Documentos brutos referentes a este fato estão centralizados na pasta `/docs` e **não são duplicados aqui**.
