@@ -2,8 +2,8 @@
 
 Este repositório contém o **ambiente de trabalho interno** do projeto de levantamento de provas relativas à gestão abusiva e temerária praticada pelo administrador Victor Bernardes, visando embasar judicialmente a **assunção da administração das sociedades pelo sócio minoritário Jefferson Almeida**.
 
-> ⚠️ **Atenção:** este repositório _não_ deve ser compartilhado diretamente com terceiros.  
-> O **dossiê público** (destinado a peritos, advogados ou magistrados) será gerado posteriormente a partir da pasta `/public`.
+⚠️ **Atenção:** este repositório _não_ deve ser compartilhado diretamente com terceiros.  
+O **dossiê público** (destinado a peritos, advogados ou magistrados) será gerado posteriormente a partir da pasta `/public`.
 
 ---
 
@@ -19,40 +19,27 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 
 ## 📁 Estrutura do repositório
 
-```
-
 /
 ├── README.md                → este documento
-├── docs/                    → documentos brutos (contratos, certidões, emails, etc.)
-├── facts/                   → fatos identificados (cada fato em uma subpasta)
-│   ├── fact-1/
-│   │     └── fact.md        → descrição do fato + notas internas + rascunhos
-│   ├── fact-2/
-│   │     └── fact.md
-│   ├── fact-3/
-│   │     └── fact.md
-│   ├── fact-4/
-│   │     └── fact.md
-│   └── fact-5/
-│         └── fact.md
+├── docs/                    → documentos brutos + minuta principal da ação (inclui fatos e jurisprudências)
+│     └── minuta.md          → primeira versão da petição, contendo todos os fatos e referências
 ├── public/                  → versão “limpa” do dossiê final (para terceiros)
-└── jurisprudence/           → jurisprudência, estudos técnicos e templates de peças
 
-```
 
-> 📌 **Nota:**  
-> Os documentos brutos não são duplicados dentro das pastas dos fatos — permanecem centralizados na pasta `/docs` e são apenas **referenciados** dentro do respectivo `fact.md`.  
-> Arquivos auxiliares (planilhas, cronogramas, pareceres técnicos etc.) podem ser incluídos dentro da pasta do fato **apenas quando necessário**, desde que também sejam referenciados no `fact.md`.
+📌 **Nota:** Todos os fatos e jurisprudências ficam centralizados dentro do arquivo `docs/minuta.md`.  
+Os documentos brutos permanecem na pasta `/docs` e são **referenciados** ao longo da minuta (ex: “vide Anexo 12 – Contrato Social”).
 
 ---
 
 ## 🛠️ Metodologia de trabalho
 
-1. **Mapeamento dos fatos** (✅ concluído – ver relatório inicial em `/docs`)
+1. **Mapeamento dos fatos** (concluído – ver relatório inicial em `/docs`)
 2. **Coleta de documentos e inserção na pasta `/docs`**
-3. **Criação/atualização dos arquivos `facts/<fact-n>/fact.md`, com referência aos documentos relevantes e anotações internas**
-4. **Desenvolvimento das análises e rascunhos argumentativos diretamente no `fact.md`**
-5. **Consolidação das peças processuais e evidências selecionadas em `/public`**
+3. **Elaboração da minuta da ação diretamente no arquivo `/docs/minuta.md`**, com:
+   - descrição dos fatos e incidentes;
+   - comentários internos e rascunhos argumentativos;
+   - referências aos documentos anexos e à jurisprudência pertinente.
+4. **Consolidação das peças processuais e evidências selecionadas em `/public`**
 
 ---
 
