@@ -2,7 +2,7 @@
 
 ## **1. PREÂMBULO**
 
-**JEFFERSON ALMEIDA**, brasileiro, empresário, portador do CPF nº XXX.XXX.XXX-XX e do RG nº X.XXX.XXX, residente e domiciliado na cidade de \[cidade/UF], por seu advogado infra-assinado (instrumento de mandato anexo), com escritório profissional na \[endereço completo], onde recebe notificações e intimações, vem, respeitosamente, à presença de Vossa Excelência, propor a presente:
+**JEFFERSON FELIPE XAVIER DE ALMEIDA**, brasileiro, empresário, portador do CPF nº 044.186.881-96 e do RG nº 4861961, residente e domiciliado na cidade de \[cidade/UF], por seu advogado infra-assinado (instrumento de mandato anexo), com escritório profissional na \[endereço completo], onde recebe notificações e intimações, vem, respeitosamente, à presença de Vossa Excelência, propor a presente:
 
 > **AÇÃO DE RESPONSABILIDADE SOCIETÁRIA COM PEDIDO DE TUTELA DE URGÊNCIA**
 > (com fundamento no art. 1.011, parágrafo único, do Código Civil c/c arts. 300 e 381 do CPC)
@@ -17,21 +17,23 @@ Conforme será demonstrado, o requerido vem adotando condutas que violam express
 
 ## **2. DOS FATOS**
 
-### **a. Violação do contrato social e decisões unilaterais – Alienação de imóvel sem anuência do sócio minoritário**
+### a. Violação do contrato social – Alienação/cessão de direitos sobre imóveis sem autorização prévia dos demais sócios
 
-O administrador **Victor Bernardes procedeu à venda de imóveis pertencentes à sociedade sem a anuência do sócio minoritário Jefferson Almeida**, em manifesta afronta ao disposto na **7ª Alteração Contratual** (**Anexo 01**), a qual exige aprovação unânime para qualquer alienação de bens imóveis.  
+O requerido **Victor Bernardes** praticou **ato de disposição patrimonial** quanto aos **lotes de Japaratinga**, **sem autorização dos demais sócios**, em **afronta direta à Cláusula 6ª** do Contrato Social, que **veda** ao administrador “**onerar ou alienar bens imóveis da sociedade sem autorização dos outros sócios**”.
 
-Os referidos lotes de Japaratinga haviam sido adquiridos anteriormente, ainda sob a administração do autor, mediante contratos regularmente celebrados (**Anexo 02**) e integralmente quitados com recursos das sociedades, conforme extratos bancários juntados (**Anexo 03**). Embora a transferência das matrículas não tivesse sido imediatamente formalizada em cartório, os bens **já integravam o patrimônio societário**, cabendo exclusivamente à administração cumprir o trâmite registral subsequente.  
+Os lotes foram **adquiridos com recursos sociais**, mediante contratos de compra e venda devidamente celebrados e **integralmente quitados** (**Anexos 02 e 03**), constituindo **ativo da sociedade**. Embora a transferência registral das matrículas ainda estivesse pendente por trâmites cartorários, a sociedade detinha **direitos aquisitivos** sobre os imóveis (arts. **1.245**, **1.417** e **1.418** do CC), que **integram o patrimônio social** e, por isso, **não podiam ser alienados, cedidos ou onerados** sem a **autorização prévia e expressa** dos demais sócios, nos termos da Cláusula 6ª.
 
-Não obstante, Victor Bernardes, já na qualidade de administrador, **alienou os imóveis de forma unilateral, sem convocação de assembleia e sem obter a anuência do sócio minoritário**, praticando ato de gestão abusiva e em desacordo com o contrato social. Tal transação encontra-se materializada no contrato de venda ora acostado (**Anexo 04**).  
+Não obstante, já na qualidade de administrador, o requerido **promoveu a alienação/cessão** desses ativos **unilateralmente**, **sem convocar reunião** e **sem obter anuência** do sócio minoritário, conforme se comprova pelo **instrumento contratual acostado** (**Anexo 04**). Trata-se de **ato de gestão abusiva e ultra vires**, praticado **em desacordo com limitação de poderes** publicizada no contrato social arquivado na Junta Comercial, o que afasta a boa-fé de terceiros e **torna o negócio inoponível à sociedade**, sem prejuízo da **responsabilidade pessoal** do administrador (art. **1.011** do CC).
 
-Essa conduta representa **grave violação aos deveres fiduciários do administrador**, expondo a sociedade a risco de dilapidação patrimonial e comprometendo a confiança necessária à governança societária.  
+A conduta **compromete o patrimônio social** e evidencia **risco de dilapidação**, justificando **tutela de urgência específica** para: (i) **oficiar o Cartório de Registro de Imóveis** para **averbar a existência desta demanda** nas matrículas dos lotes e **suspender qualquer registro** de transferência relacionado ao negócio impugnado; (ii) **bloquear/depósito judicial** de eventuais valores recebidos pelo requerido; e (iii) **vedar novos atos de disposição** sobre os mesmos ativos até ulterior deliberação.
 
-📄 **Documentos comprobatórios**  
-- **Anexo 01** – 7ª Alteração Contratual das sociedades (cláusula de anuência unânime)  
-- **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
-- **Anexo 03** – Extratos bancários comprovando a quitação dos contratos pela empresa  
-- **Anexo 04** – Contrato de venda unilateral realizado por Victor Bernardes  
+**📄 Documentos comprobatórios (ajustes sugeridos)**
+
+* **Anexo 01** – 7ª Alteração/Contrato Social (juntar **cláusula 6ª** destacada e **certidão simplificada da Junta Comercial**)
+* **Anexo 02** – Contratos de aquisição dos lotes (com **identificação de vendedor, preço, data** e **nº das matrículas**)
+* **Anexo 03** – Extratos bancários (pagamentos grifados)
+* **Anexo 04** – Instrumento de venda/cessão realizado unilateralmente
+* **+** **Certidões de inteiro teor das matrículas** (atuais) e **informação de prenotações**, se houver
 
 ### **b. Gestão temerária e negligência administrativa**
 
