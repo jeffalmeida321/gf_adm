@@ -41,18 +41,19 @@ A gestão exercida por Victor Bernardes tem se caracterizado pela prática de at
 
 #### **b.1. Perda de área doada pela Prefeitura de Terenos**
 
-O administrador **Victor Bernardes deixou de cumprir as condições legais vinculadas à doação de área concedida pelo Município de Terenos à Fetra Ltda.**, resultando na **revogação do benefício** e consequente perda do imóvel, em prejuízo direto ao patrimônio da sociedade.  
+A **Fetra Ltda. perdeu a área doada pelo Município de Terenos** devido ao **descumprimento das obrigações legais vinculadas à doação**, o que caracteriza grave negligência administrativa do requerido e culminou em **expressivos prejuízos financeiros já materializados**.
 
-Em **28/08/2023**, por meio da **Lei Municipal nº 1392/2023** (**Anexo 05**), a empresa foi beneficiada com área destinada à implantação de unidade fabril, mediante obrigações específicas a serem observadas pela administração. Durante a gestão do sócio Jefferson Almeida, foram realizados **investimentos substanciais**, com a celebração e pagamento integral de contratos de fornecimento de equipamentos industriais no valor aproximado de **R$ 12,3 milhões** (**Anexo 06**).  
+Até o momento, foram **investidos mais de R\$ 22.000.000,00** na implantação da unidade fabril (incluindo **equipamentos industriais**, contratos de fornecimento e execução de **obras civis** no terreno). Embora exista **possibilidade de recuperação parcial desses valores através da venda dos equipamentos**, os **prejuízos já consolidados ultrapassam R\$ 6.000.000,00**, correspondentes **às estruturas físicas construídas no local (terraplenagem, fundações, edificações e instalações)**, as quais são **irremovíveis** e **definitivamente perdidas com a revogação da doação**, sem computar, inclusive, a **depreciação dos equipamentos que ainda precisarão ser alienados**.
 
-Contudo, após assumir a administração, Victor Bernardes **abandonou as providências necessárias ao cumprimento das condições da doação**, ocasionando a **revogação formalizada em 01/04/2025** no **Termo de Revogação expedido pelo Município** (**Anexo 07**).  
+A área foi originalmente concedida em **28/08/2023**, por meio da **Lei Municipal nº 1.392/2023** (**Anexo 05**), com obrigações específicas para implantação da fábrica. Desde então, foram realizados **diversos investimentos para viabilização da unidade fabril**, incluindo a celebração e quitação de **contratos de fornecimento de equipamentos industriais**, no valor comprovado de **aproximadamente R\$ 12,3 milhões** (**Anexo 06**) — montante que representa **apenas parte do total efetivamente investido**, pois **os demais contratos, notas fiscais e ordens de serviço estão sob controle exclusivo da administração da Fetra, não havendo acesso pelo sócio Jefferson**.
 
-Tal conduta representou não apenas a **perda da área destinada à expansão da atividade industrial**, mas também a **inutilização de todos os equipamentos adquiridos para implantação da fábrica**, configurando verdadeiro **ato de gestão temerária**, contrário ao interesse social e responsável por prejuízo patrimonial de grande magnitude.  
+Após a assunção de Victor Bernardes à administração, **as obrigações previstas na lei de doação deixaram de ser cumpridas**, razão pela qual o Município **revogou formalmente a doação** em **01/04/2025** (**Anexo 07**), ocasionando a **perda do imóvel** e a **inutilização de parte dos investimentos realizados**.
 
-📄 **Documentos comprobatórios**  
-- **Anexo 05** – Lei Municipal nº 1392/2023, que concedeu a área à Fetra Ltda.  
-- **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
-- **Anexo 07** – Termo de Revogação expedido pelo Município em 01/04/2025  
+📄 **Documentos comprobatórios**
+
+* **Anexo 05** – Lei Municipal nº 1.392/2023 (doação da área)
+* **Anexo 06** – Contratos de fornecimento de equipamentos industriais (aprox. R\$ 12,3 milhões)
+* **Anexo 07** – Termo de Revogação da doação (01/04/2025) 
 
 #### **b.2. Paralisação total das atividades empresariais**
 
@@ -72,41 +73,56 @@ A conduta caracteriza inequívoco **ato de gestão temerária**, pois representa
 
 ### **c. Conflito de interesses, desvio de bens e confusão patrimonial**
 
-A administração de Victor Bernardes também tem se caracterizado por atos dolosos, voltados à utilização do patrimônio social em benefício próprio e em conflito direto com os interesses das sociedades. Dois episódios são particularmente ilustrativos: (i) a ocultação de retroescavadeiras objeto de parceria empresarial, com consequente arresto judicial das contas dos sócios, e (ii) a tentativa de utilização de área adquirida pela Fetra em proveito exclusivo de SPE particular do administrador.  
+A administração de **Victor Bernardes** evidencia atos dolosos e reiterados de utilização do patrimônio, da estrutura e da imagem da **Fetra Ltda.** em benefício próprio, em claro **conflito de interesses**, com **desvio de oportunidades de negócio** e **confusão patrimonial**. Destacam-se: (i) a ocultação de retroescavadeiras objeto de parceria empresarial, que culminou em constrições judiciais, e (ii) o uso da estrutura institucional da Fetra para favorecer a sociedade particular **Nova Frida**, de titularidade exclusiva do administrador.
 
 #### **c.1. Ocultação de retroescavadeiras e arresto judicial de contas**
 
-A sociedade **Fetra Ltda.** firmou contrato de parceria com a empresa **Gonpec**, envolvendo a utilização de duas retroescavadeiras para execução de serviços. No entanto, sob a gestão de Victor Bernardes, houve **descumprimento das obrigações contratuais** e, mais grave, a **ocultação deliberada das máquinas**, impossibilitando sua utilização pela parceira comercial.  
+A **Fetra Ltda.** celebrou parceria com a empresa **Gonpec** para utilização de duas retroescavadeiras. Sob a gestão de Victor Bernardes, verificou-se **descumprimento das obrigações contratuais** e, mais grave, a **ocultação deliberada das máquinas**, impedindo sua fruição pela parceira comercial. Em razão disso, a Gonpec ajuizou **ação judicial** contra a Fetra, resultando em **medida constritiva sobre contas bancárias dos sócios**, com impacto financeiro e reputacional relevante.
 
-Diante da conduta ilícita, a Gonpec ingressou com **ação judicial** contra a Fetra Ltda., resultando em **decisão que determinou o arresto das contas bancárias dos sócios**, medida que trouxe sérios prejuízos financeiros e afetou a imagem da empresa perante o mercado.  
+O episódio caracteriza **gestão temerária**, **confusão patrimonial** e violação da **boa-fé objetiva**, expondo a sociedade e seus sócios a riscos jurídicos e econômicos desnecessários.
 
-Tal episódio configura não apenas **gestão temerária**, mas também ato de **confusão patrimonial** e violação da boa-fé objetiva, pois a ocultação de bens da sociedade em benefício de interesses obscuros do administrador expôs diretamente os sócios e a empresa a riscos jurídicos e financeiros relevantes.  
+📄 **Documentos comprobatórios**
 
-📄 **Documentos comprobatórios**  
-- **Anexo 12** – Contrato de parceria firmado com a empresa Gonpec  
-- **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
-- **Anexo 14** – Registros que comprovam o descumprimento da parceria e a ocultação das máquinas  
-- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
+* **Anexo 12** – **Distrato** da parceria Fetra x Gonpec (com obrigações remanescentes).
+* **Anexo 13** – Cópia da ação judicial movida pela Gonpec (**a ser juntado**).
+* **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas (**a ser juntado**).
+* **Anexo 15** – Decisão judicial de arresto das contas dos sócios (**a ser juntado**).
 
-## **c.2. Desvio de oportunidade de negócio e utilização da empresa “Nova Frida” em detrimento da Fetra Ltda.**
+---
 
-Foi identificado que o administrador **Victor Bernardes** buscou utilizar indevidamente a estrutura da sociedade **Fetra Ltda.** em tratativas comerciais com investidores, mas em benefício exclusivo da empresa **Nova Frida**, de sua propriedade exclusiva, em evidente **conflito de interesses, desvio de oportunidade de negócio e confusão patrimonial**.  
+#### **c.2. Desvio de oportunidades de negócio e utilização da empresa “Nova Frida” em detrimento da Fetra Ltda.**
 
-Em comunicação eletrônica encaminhada pelo **gerente comercial da Fetra, Sr. Otávio Cassimiro**, a potenciais investidores (**Anexo 16**), foram enviados documentos oficiais que, embora elaborados em **papel timbrado da Fetra** e acompanhados de **apresentação institucional da sociedade** (**Anexo 18**), indicavam como parte contratante a **empresa Nova Frida** (**Anexo 17**), pertencente exclusivamente a Victor Bernardes, conforme se comprova por meio de seu contrato social (**Anexo 19**).  
+Apurou-se que o administrador **Victor Bernardes**, em claro **conflito de interesses**, utilizou a **estrutura administrativa da Fetra Ltda.** para **constituir** a empresa **“Nova Frida”**, de sua titularidade exclusiva, e, em seguida, passou a **desviar oportunidades de negócio** que pertenciam à Fetra em benefício da referida sociedade, valendo-se da **marca, da reputação e da equipe comercial** da empresa que administra.
 
-Adicionalmente, para fins de auditoria e preservação da cadeia de custódia da prova, junta-se também o **arquivo original da mensagem eletrônica em formato .eml** (**Anexo 20**), o qual confirma a autenticidade do envio.  
+**Como o desvio ocorreu (ordem cronológica):**
 
-A conduta revela que Victor Bernardes **desviou oportunidade de negócio que deveria beneficiar a Fetra Ltda.**, valendo-se de sua posição de administrador e da estrutura societária (recursos humanos, marca e imagem institucional da empresa) para favorecer sociedade particular de sua titularidade exclusiva.  
+1. **Constituição da Nova Frida com uso da estrutura da Fetra.**  
+   Em **14/03/2024**, a funcionária **Andreia Roriz**, integrante do departamento contábil da Fetra, **circulou internamente** o **contrato social** e o **cartão CNPJ** da empresa **Nova Frida**, evidenciando que **recursos humanos da Fetra foram utilizados para sua criação e organização** (**Anexos 28 e 29**).
 
-Tal prática configura ato doloso de **enriquecimento ilícito às custas da sociedade**, além de grave violação aos deveres de lealdade, transparência e diligência impostos pelo art. 1.011 do Código Civil, impondo o afastamento imediato do requerido da administração.  
+2. **Desvio de oportunidades de negócio para a Nova Frida.**  
+   A partir de então, verificou-se que o administrador passou a **utilizar a imagem institucional da Fetra (marca, papel timbrado, apresentações institucionais)** para negociar **em nome da Nova Frida**, direcionando negócios e potenciais investidores para sua sociedade particular.  
+   Foram identificadas **comunicações enviadas pelo gerente comercial da Fetra, Sr. Otávio Cassimiro**, com **modelo de contrato e materiais da Fetra**, mas **indicando a Nova Frida como beneficiária** (**Anexos 16 a 20**).  
+   Esse comportamento foi **reiterado em 14/05/2024**, no e-mail intitulado **“SPE Nova Frida – MRV”**, encaminhado a potenciais parceiros (**Anexos 26 e 27**).
 
-### 📄 **Documentos comprobatórios – Desvio de oportunidade em favor da Nova Frida**
+**Linha do tempo sintética (reforço do padrão doloso):**
+- **14/03/2024** – Comunicação interna sobre a **abertura da Nova Frida** por meio da equipe contábil da Fetra (**Anexos 28 e 29**).  
+- **14/05/2024** – E-mail comercial **“SPE Nova Frida – MRV”**, utilizando **material institucional da Fetra** e indicando **Nova Frida** como beneficiária (**Anexos 26 e 27**).  
+- **Outras comunicações**, contendo **apresentações da Fetra** e **contratos com benefício direcionado à Nova Frida**, confirmam o **padrão sistemático de desvio** (**Anexos 16 a 20**).
 
-- **Anexo 16** – E-mail enviado pelo gerente comercial da Fetra a potenciais investidores (arq0021.pdf)  
-- **Anexo 17** – Modelo de contrato de parceria, em papel timbrado da Fetra, mas indicando como beneficiária a empresa Nova Frida (arq0022.pdf)  
-- **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas (arq0023.pdf)  
-- **Anexo 19** – Contrato social da empresa Nova Frida, pertencente exclusivamente a Victor Bernardes (arq0024.pdf)  
-- **Anexo 20** – Arquivo original da mensagem eletrônica em formato `.eml`, para fins de verificação técnica e auditoria (arq0025.eml)  
+**Enquadramento jurídico:**  
+O conjunto de provas demonstra **desvio deliberado de oportunidades comerciais** e **utilização indevida de ativos intangíveis da Fetra**, em violação ao dever de **lealdade e diligência** imposto pelo art. **1.011 do Código Civil**, razão pela qual se impõe o **afastamento imediato** do administrador para cessar o uso abusivo da estrutura societária.
+
+📄 **Documentos comprobatórios – Desvio de oportunidade/Nova Frida**
+
+* **Anexo 16** – E-mail do gerente comercial da Fetra a potenciais investidores (PDF).  
+* **Anexo 17** – Modelo de contrato em papel timbrado da Fetra indicando a **Nova Frida** como beneficiária.  
+* **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas.  
+* **Anexo 19** – Contrato social da **Nova Frida** (titularidade exclusiva de Victor Bernardes).  
+* **Anexo 20** – Arquivo **.eml** do e-mail (cadeia de custódia).  
+* **Anexo 26** – E-mail **“SPE Nova Frida – MRV”** (PDF) – reiteração do padrão.  
+* **Anexo 27** – Arquivo **.eml** do e-mail “SPE Nova Frida – MRV”.  
+* **Anexo 28** – E-mail interno comunicando a **abertura da Nova Frida** (com contrato social e cartão CNPJ anexos).  
+* **Anexo 29** – Arquivo **.eml** do e-mail de abertura (cadeia de custódia).
 
 ---
 
@@ -189,75 +205,92 @@ pede deferimento.
 
 #### **a. Violação do contrato social e alienação unilateral de imóvel**
 
-**🗂️ Anexos já existentes**  
-- **Anexo 01** – 7ª Alteração Contratual das sociedades  
-  → [Instrumento completo da 7ª alteração contratual](./_docs/arq0001.pdf)  
-- **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga  
-  → [Proposta de Compra dos Lotes (Edmilson)](./_docs/arq0003.pdf)  
-  → [Comprovante de pagamento – 1ª parcela](./_docs/arq0004.pdf)  
-  → [Contrato de Compra dos 7 Lotes (sem assinatura da outra parte)](./_docs/arq0005.pdf)  
-  → [Contrato de Compra da Área da Fiscosul](./_docs/arq0006.pdf)  
-  → [Contrato de Compra do 8º Lote (assinado por todas as partes)](./_docs/arq0008.pdf)  
-  → [Tabela consolidada dos pagamentos de Japaratinga](./_docs/arq0010.md)  
-- **Anexo 03** – Extratos bancários demonstrando a quitação dos contratos (com as transações grifadas em cada mês)  
-  → [Extrato Sicredi – Maio/2023](./_docs/arq0011.pdf)  
-  → [Extrato Sicredi – Junho/2023](./_docs/arq0012.pdf)  
-  → [Extrato Sicredi – Agosto/2023](./_docs/arq0013.pdf)  
-  → [Extrato Sicredi – Setembro/2023](./_docs/arq0014.pdf)  
-  → [Extrato Sicredi – Outubro/2023](./_docs/arq0015.pdf)  
+**🗂️ Anexos já existentes**
 
-**📥 Anexos a serem adquiridos**  
-- **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes  
+* **Anexo 01** – 7ª Alteração Contratual das sociedades
+  → [Instrumento completo da 7ª alteração contratual](./_docs/arq0001.pdf)
+* **Anexo 02** – Contratos de aquisição dos lotes de Japaratinga
+  → [Proposta de Compra dos Lotes (Edmilson)](./_docs/arq0003.pdf)
+  → [Comprovante de pagamento – 1ª parcela](./_docs/arq0004.pdf)
+  → [Contrato de Compra dos 7 Lotes (sem assinatura da outra parte)](./_docs/arq0005.pdf)
+  → [Contrato de Compra da Área da Fiscosul](./_docs/arq0006.pdf)
+  → [Contrato de Compra do 8º Lote (assinado por todas as partes)](./_docs/arq0008.pdf)
+  → [Tabela consolidada dos pagamentos de Japaratinga](./_docs/arq0010.md)
+* **Anexo 03** – Extratos bancários demonstrando a quitação dos contratos (com as transações grifadas em cada mês)
+  → [Extrato Sicredi – Maio/2023](./_docs/arq0011.pdf)
+  → [Extrato Sicredi – Junho/2023](./_docs/arq0012.pdf)
+  → [Extrato Sicredi – Agosto/2023](./_docs/arq0013.pdf)
+  → [Extrato Sicredi – Setembro/2023](./_docs/arq0014.pdf)
+  → [Extrato Sicredi – Outubro/2023](./_docs/arq0015.pdf)
+
+**📥 Anexos a serem adquiridos**
+
+* **Anexo 04** – Contrato de venda realizado unilateralmente por Victor Bernardes
 
 ---
 
 #### **b. Perda de área doada pela Prefeitura de Terenos**
 
-**🗂️ Anexos já existentes**  
-- **Anexo 05** – Lei Municipal nº 1392/2023  
-  → [Lei de Doação da área – Município de Terenos](./_docs/arq0016.pdf)  
-- **Anexo 06** – Contratos de fornecimento de equipamentos industriais  
-  → [Contrato – FORMATEC](./_docs/arq0018.pdf)  
-  → [Contrato – WCH](./_docs/arq0019.pdf)  
-  → [Contrato – SCHNELL BRASIL](./_docs/arq0020.pdf)  
-- **Anexo 07** – Termo de Revogação da doação  
-  → [Termo de Revogação – Município de Terenos](./_docs/arq0017.pdf)  
+**🗂️ Anexos já existentes**
+
+* **Anexo 05** – Lei Municipal nº 1392/2023
+  → [Lei de Doação da área – Município de Terenos](./_docs/arq0016.pdf)
+* **Anexo 06** – Contratos de fornecimento de equipamentos industriais
+  → [Contrato – FORMATEC](./_docs/arq0018.pdf)
+  → [Contrato – WCH](./_docs/arq0019.pdf)
+  → [Contrato – SCHNELL BRASIL](./_docs/arq0020.pdf)
+* **Anexo 07** – Termo de Revogação da doação
+  → [Termo de Revogação – Município de Terenos](./_docs/arq0017.pdf)
 
 ---
 
 #### **c. Paralisação total das atividades empresariais**
 
-**📥 Anexos a serem adquiridos**  
-- **Anexo 08** – Registros fotográficos da fábrica e escritório fechados  
-- **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade  
-- **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento  
-- **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações  
+**📥 Anexos a serem adquiridos**
+
+* **Anexo 08** – Registros fotográficos da fábrica e escritório fechados
+* **Anexo 09** – Declarações de ex-funcionários e fornecedores demonstrando inatividade
+* **Anexo 10** – Demonstrativos contábeis e fiscais comprovando ausência de faturamento
+* **Anexo 11** – Certidões trabalhistas e comunicações comerciais indicando paralisação das operações
 
 ---
 
 #### **d. Ocultação de retroescavadeiras e arresto judicial**
 
-**🗂️ Anexos já existentes**  
-- **Anexo 12** – Distrato da parceria firmado entre Fetra e Gonpec  
-  → [Distrato da Parceria Fetra x Gonpec](./_docs/arq0009.pdf)  
+**🗂️ Anexos já existentes**
 
-**📥 Anexos a serem adquiridos**  
-- **Anexo 13** – Cópia da ação judicial movida pela Gonpec  
-- **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas  
-- **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios  
+* **Anexo 12** – Distrato da parceria firmado entre Fetra e Gonpec
+  → [Distrato da Parceria Fetra x Gonpec](./_docs/arq0009.pdf)
+
+**📥 Anexos a serem adquiridos**
+
+* **Anexo 13** – Cópia da ação judicial movida pela Gonpec
+* **Anexo 14** – Registros do descumprimento da parceria e da ocultação das máquinas
+* **Anexo 15** – Decisão judicial que determinou o arresto das contas dos sócios
 
 ---
 
 #### **e. Desvio de oportunidade de negócio em favor da Nova Frida**
 
-**🗂️ Anexos já existentes**  
-- **Anexo 16** – E-mail enviado pelo gerente comercial da Fetra a potenciais investidores  
-  → [arq0021.pdf](./_docs/arq0021.pdf)  
-- **Anexo 17** – Modelo de contrato de parceria em papel timbrado da Fetra, mas indicando como beneficiária a empresa Nova Frida  
-  → [arq0022.pdf](./_docs/arq0022.pdf)  
-- **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas  
-  → [arq0023.pdf](./_docs/arq0023.pdf)  
-- **Anexo 19** – Contrato social da empresa Nova Frida, pertencente exclusivamente a Victor Bernardes  
-  → [arq0024.pdf](./_docs/arq0024.pdf)  
-- **Anexo 20** – Arquivo original da mensagem eletrônica em formato `.eml`, para fins de verificação técnica e auditoria  
-  → [arq0025.eml](./_docs/arq0025.eml)  
+**🗂️ Anexos já existentes**
+
+* **Anexo 16** – E-mail enviado pelo gerente comercial da Fetra a potenciais investidores
+  → [arq0021.pdf](./_docs/arq0021.pdf)
+* **Anexo 17** – Modelo de contrato de parceria em papel timbrado da Fetra, mas indicando como beneficiária a empresa Nova Frida
+  → [arq0022.pdf](./_docs/arq0022.pdf)
+* **Anexo 18** – Apresentação institucional da Fetra utilizada nas tratativas
+  → [arq0023.pdf](./_docs/arq0023.pdf)
+* **Anexo 19** – Contrato social da empresa Nova Frida, pertencente exclusivamente a Victor Bernardes
+  → [arq0024.pdf](./_docs/arq0024.pdf)
+* **Anexo 20** – Arquivo original da mensagem eletrônica em formato `.eml`, para fins de verificação técnica e auditoria
+  → [arq0025.eml](./_docs/arq0025.eml)
+* **Anexo 26** – E-mail “SPE Nova Frida – MRV” enviado pelo gerente comercial da Fetra
+  → [arq0026.pdf](./_docs/arq0026.pdf)
+* **Anexo 27** – Arquivo original da mensagem eletrônica “SPE Nova Frida – MRV” (.eml)
+  → [arq0027.eml](./_docs/arq0027.eml)
+* **Anexo 28** – E-mail interno comunicando a abertura da Nova Frida (com contrato social e cartão CNPJ anexos)
+  → [arq0028.pdf](./_docs/arq0028.pdf)
+* **Anexo 29** – Arquivo original da mensagem eletrônica referente à abertura da Nova Frida (.eml)
+  → [arq0029.eml](./_docs/arq0029.eml)
+
+---
