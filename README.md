@@ -1,19 +1,20 @@
-# Projeto de Levantamento Probatório – Concresul Ltda. / Fetra Ltda.
+# Projeto de Redação Colaborativa da Ação Judicial – Concresul / Fetra
 
-Este repositório contém o **ambiente de trabalho interno** do projeto de levantamento de provas relativas à gestão abusiva e temerária praticada pelo administrador Victor Bernardes, visando embasar judicialmente a **assunção da administração das sociedades pelo sócio minoritário Jefferson Almeida**.
+Este repositório é o **ambiente interno de trabalho** (uso exclusivo de Jefferson Almeida e dos advogados envolvidos) para a elaboração colaborativa da **minuta preliminar da ação judicial** que visa o afastamento do administrador Victor Bernardes por gestão abusiva e temerária.
 
-⚠️ **Atenção:** este repositório _não_ deve ser compartilhado diretamente com terceiros.  
-O **dossiê público** (destinado a peritos, advogados ou magistrados) será gerado posteriormente a partir da pasta `/public`.
+⚠️ **Atenção:** nenhuma informação contida neste repositório deve ser compartilhada com terceiros. Somente a versão final gerada na pasta `_public` será destinada ao protocolo judicial e/ou envio a peritos, advogados externos e magistrados.
 
 ---
 
 ## 🎯 Objetivo do projeto
 
-Estruturar de forma sistemática e documentada todas as evidências (documentos, comunicações, registros e análises) referentes aos atos de gestão abusiva identificados, de modo a:
+Estruturar, de forma colaborativa e documentada, **a primeira versão da minuta da ação**, reunindo:
 
-- comprovar juridicamente a violação dos deveres fiduciários do administrador;
-- demonstrar o risco concreto de dilapidação patrimonial;
-- sustentar o pedido judicial de afastamento e assunção da administração pelo sócio minoritário (art. 1.011 do Código Civil).
+- a descrição detalhada dos fatos relevantes;
+- os rascunhos argumentativos e comentários internos;
+- as referências aos documentos anexos e jurisprudências correspondentes.
+
+Depois de finalizada e validada, esta minuta será refinada e formalizada na pasta `_public`, juntamente com a versão definitiva dos anexos utilizados para o protocolo.
 
 ---
 
@@ -21,36 +22,40 @@ Estruturar de forma sistemática e documentada todas as evidências (documentos,
 
 ```
 /
-├── README.md                → este documento
-├── docs/                    → documentos brutos + minuta principal da ação (inclui fatos e jurisprudências)
-│   └── minuta.md            → primeira versão da petição, contendo todos os fatos e referências
-├── public/                  → versão “limpa” do dossiê final (para terceiros)
+├── README.md
+├── \_docs/
+│   ├── \_minuta.md             → minuta preliminar da petição (texto base)
+│   ├── \_minuta-notas.md       → anotações internas e pendências de revisão
+│   ├── \_catalogo.md           → catálogo descritivo dos anexos armazenados em \_docs
+│   └── arq00XX.ext            → anexos utilizados e referenciados na \_minuta.md
+└── \_public/
+└── (versão final para protocolo – minuta + anexos)
 
 ```
 
-📌 **Nota:** Todos os fatos e jurisprudências ficam centralizados dentro do arquivo `docs/minuta.md`.  
-Os documentos brutos permanecem na pasta `/docs` e são **referenciados** ao longo da minuta (ex: “vide Anexo 12 – Contrato Social”).
+📌 **Importante:** A pasta `_docs` contém (i) o texto preliminar da petição (`_minuta.md`), (ii) um caderno de anotações e pendências (`_minuta-notas.md`) e (iii) todos os **anexos reais utilizados**, descritos em `_catalogo.md`.  
+Os anexos são referenciados na minuta como: *“vide Anexo XX – …”*.
 
 ---
 
 ## 🛠️ Metodologia de trabalho
 
-1. **Mapeamento dos fatos** (concluído – ver relatório inicial em `/docs`)
-2. **Coleta de documentos e inserção na pasta `/docs`**
-3. **Elaboração da minuta da ação diretamente no arquivo `/docs/minuta.md`**, com:
-   - descrição dos fatos e incidentes;
-   - comentários internos e rascunhos argumentativos;
-   - referências aos documentos anexos e à jurisprudência pertinente.
-4. **Consolidação das peças processuais e evidências selecionadas em `/public`**
+1. **Mapeamento de fatos** (concluído — ver arq0007.md no catálogo)
+2. **Coleta de documentos e inserção em `_docs` seguindo a numeração do catálogo**
+3. **Redação colaborativa da minuto em `_docs/_minuta.md`**, com:
+   - descrição dos fatos;
+   - referências aos anexos;
+   - marcação das pendências adicionais no arquivo `_minuta-notas.md`.
+4. **Consolidação final em `_public`**, contendo:
+   - minuta jurídica definitiva (sem rascunhos ou comentários);
+   - anexos reais organizados e numerados.
 
 ---
 
 ## 📦 Entregável final
 
-A pasta `/public` será utilizada para gerar um **repositório independente**, contendo:
+A pasta `_public` conterá o **dossiê final para protocolo judicial**, composto por:
 
-- resumo dos fatos relevantes;
-- evidências organizadas (cada fato com seus documentos vinculados);
-- fundamentação jurídica e pedidos.
-
-Esse repositório será redigido em linguagem adequada para **apresentação a terceiros (peritos, tribunal, advogados)**.
+- minuta definitiva da ação;
+- anexos reais e organizados conforme numeração de referência;
+- fundamentação jurídica completa.
