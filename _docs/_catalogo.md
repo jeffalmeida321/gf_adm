@@ -33,6 +33,11 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 23. [arq0023.pdf](#23-arq0023pdf) – Apresentação institucional para investidores (enviada no e-mail arq0021)
 24. [arq0024.pdf](#24-arq0024pdf) – Contrato social da empresa Nova Frida
 25. [arq0025.eml](#25-arq0025eml) – E-mail original em formato .eml (mensagem completa para auditoria)
+26. [arq0026.pdf](#26-arq0026pdf) – E-mail enviado por gerente comercial da Fetra a investidores (parceria envolvendo Nova Frida – “SPE Nova Frida – MRV”)
+27. [arq0027.eml](#27-arq0027eml) – E-mail original em formato .eml (mensagem “SPE Nova Frida – MRV” para auditoria)
+28. [arq0028.pdf](#28-arq0028pdf) – E-mail interno da Fetra comunicando a abertura da Nova Frida (com contrato social e cartão CNPJ anexos)
+29. [arq0029.eml](#29-arq0029eml) – E-mail original em formato .eml (abertura da Nova Frida – documento para auditoria)
+
 
 ---
 
@@ -311,3 +316,48 @@ Cada entrada é numerada sequencialmente e contém as principais informações p
 - Origem: **Documento interno – mensagem encaminhada por Otávio Cassimiro (gerente comercial da Fetra)**  
 - Nome original: *arq0025.eml*  
 - Observações: Trata-se do **arquivo original da mensagem eletrônica** correspondente ao conteúdo descrito no arq0021.pdf, preservado em formato `.eml` para fins de **verificação técnica e auditoria forense**. A mensagem contém o texto integral do e-mail enviado e os anexos posteriormente salvos como arq0022.pdf, arq0023.pdf e arq0024.pdf.
+
+---
+
+## 26. arq0026.pdf
+
+- Data de geração: 14/05/2024  
+- Referente a: **E-mail enviado pelo gerente comercial da Fetra a potenciais investidores** (contendo *modelo de contrato de parceria e apresentação institucional*)  
+- Tipo de documento: Comunicação eletrônica (arquivo original em PDF)  
+- Origem: **Documento interno – enviado por Otávio Cassimiro (gerente comercial da Fetra)**  
+- Nome original: *arq0026.pdf*  
+- Observações: Trata-se de e-mail intitulado **“SPE Nova Frida – MRV”**, encaminhado pelo gerente comercial da Fetra, **Otávio Cassimiro**, às destinatárias **Camila (azthor.com.br)** e **Karina (azthor.com.br)**. Assim como o documento arq0021.pdf, o e-mail contém: (i) **modelo de contrato de parceria** impresso em papel timbrado da Fetra, mas identificando como parte contratante a empresa **Nova Frida** (pertencente exclusivamente ao sócio administrador Victor Bernardes); e (ii) **apresentação institucional para investidores**. O documento evidencia **utilização da estrutura, imagem e credibilidade da Fetra para promoção de negócio particular** do administrador, configurando **conflito de interesses, desvio patrimonial e confusão societária**.
+
+---
+
+## 27. arq0027.eml
+
+- Data de geração: 14/05/2024  
+- Referente a: **E-mail original enviado pelo gerente comercial da Fetra a potenciais investidores**  
+- Tipo de documento: Mensagem eletrônica (formato .eml para auditoria)  
+- Origem: **Documento interno – mensagem encaminhada por Otávio Cassimiro (gerente comercial da Fetra)**  
+- Nome original: *arq0027.eml*  
+- Observações: Trata-se do **arquivo original da mensagem eletrônica** correspondente ao conteúdo descrito no *arq0026.pdf*, preservado em formato `.eml` para fins de **verificação técnica e auditoria forense**. A mensagem contém o texto integral do e-mail intitulado “SPE Nova Frida – MRV”, enviado às destinatárias Camila (azthor.com.br) e Karina (azthor.com.br), bem como os anexos posteriormente salvos como *arq0022.pdf* e *arq0023.pdf*.
+
+---
+
+## 28. arq0028.pdf
+
+- Data de geração: 14/03/2024  
+- Referente a: **E-mail enviado por funcionária do departamento contábil da Fetra comunicando a abertura da empresa Nova Frida**  
+- Tipo de documento: Comunicação eletrônica (arquivo original em PDF)  
+- Origem: **Documento interno – enviado por Andreia Roriz (departamento contábil da Fetra)**  
+- Nome original: *arq0028.pdf*  
+- Observações: Trata-se de e-mail intitulado **“NOVA FRIDA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA”**, enviado por **Andreia Roriz**, funcionária do departamento contábil da Fetra, à **alta gestão da empresa**. O e-mail informa oficialmente sobre a **abertura da empresa Nova Frida** e contém como anexos o **contrato social** e o **cartão CNPJ** da nova sociedade. O conteúdo evidencia que **recursos humanos da própria Fetra foram utilizados na constituição da Nova Frida**, configurando **uso da estrutura societária da Fetra em benefício particular do sócio administrador Victor Bernardes**, com indícios de **confusão patrimonial e desvio de finalidade**.
+
+---
+
+## 29. arq0029.eml
+
+- Data de geração: 14/03/2024  
+- Referente a: **E-mail original enviado por funcionária do departamento contábil da Fetra comunicando a abertura da empresa Nova Frida**  
+- Tipo de documento: Mensagem eletrônica (formato .eml para auditoria)  
+- Origem: **Documento interno – mensagem encaminhada por Andreia Roriz (departamento contábil da Fetra)**  
+- Nome original: *arq0029.eml*  
+- Observações: Arquivo original da mensagem eletrônica correspondente ao conteúdo descrito no *arq0028.pdf*. A mensagem contém o texto integral do e-mail intitulado “NOVA FRIDA EMPREENDIMENTOS IMOBILIÁRIOS SPE LTDA”, enviado à alta gestão da Fetra, juntamente com os anexos (contrato social e cartão CNPJ da empresa Nova Frida). O documento comprova que a comunicação e abertura da Nova Frida foram realizadas utilizando a estrutura funcional da Fetra, indicando **uso indevido de recursos internos para benefício particular do sócio administrador Victor Bernardes**.
+
