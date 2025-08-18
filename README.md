@@ -1,4 +1,4 @@
-# Projeto de Redação Colaborativa da Ação Judicial – Concresul / Fetra
+# Projeto Minuta Concresul/Fetra – Ação de Afastamento
 
 Este repositório é o **ambiente interno de trabalho** (uso exclusivo de Jefferson Almeida e dos advogados envolvidos) para a elaboração colaborativa da **minuta preliminar da ação judicial** que visa o afastamento do administrador Victor Bernardes por gestão abusiva e temerária.
 
